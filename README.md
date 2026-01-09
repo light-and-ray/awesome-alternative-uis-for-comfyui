@@ -103,8 +103,6 @@ Link: https://github.com/jordenyt/stable_diffusion_sketch
 
 Forget everything you thought you knew about AI art generation - RuinedFooocus is here to completely reinvent the game!
 
-(This is a fork of Fooocus, but installs ComfyUI backend for some inference code)
-
 Link: https://github.com/runew0lf/RuinedFooocus
 
 ## ● Intel AI Playground
