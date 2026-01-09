@@ -74,6 +74,6 @@ Link: https://www.youtube.com/watch?v=lRQoUWtWrHk
 
 Forget everything you thought you knew about AI art generation - RuinedFooocus is here to completely reinvent the game!
 
-(This is fork of Fooocus, but installs Comfy backend for some inference code)
+(This is a fork of Fooocus, but installs ComfyUI backend for some inference code)
 
 Link: https://github.com/runew0lf/RuinedFooocus
