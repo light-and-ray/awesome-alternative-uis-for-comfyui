@@ -2,22 +2,15 @@
 
 Here is a collection of alternative UI that use ComfyUI backend for image generation. The order doesn't matter. Don't hesitate to open an issue or pr if you want to add something
 
-## ● Flow - Streamlined Way to ComfyUI
+# Category 1: Close integration, work with the same workflows
 
-![](https://github.com/diStyApps/ComfyUI-disty-Flow/blob/main/web/core/media/git/cover_flow.jpg)
+## ● SwarmUI
 
-Flow is a custom node designed to provide user-friendly interface for ComfyUI by acting as an alternative user interface for running workflows. It is not a replacement for workflow creation.
+![](https://github.com/mcmonkeyprojects/SwarmUI/raw/master/.github/images/swarmui.jpg)
 
-Link: https://github.com/diStyApps/ComfyUI-disty-Flow
+A Modular AI Image Generation Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. Supports AI image models (Stable Diffusion, Z-Image, Flux, Qwen Image, etc.), and AI video models (Wan, Hunyuan Video, etc.), with plans to support eg audio and more in the future.
 
-## ● ViewComfy
-
-![](ViewComfy.png)
-
-ViewComfy is an open source tool to help you create beautiful web apps from ComfyUI workflows. It can support multiple workflows in the same UI and works well with image, video, and text outputs.
-
-Link: https://github.com/ViewComfy/ViewComfy
-
+Link: https://github.com/mcmonkeyprojects/SwarmUI
 
 ## ● Minimalistic Comfy Wrapper WebUI
 
@@ -27,6 +20,26 @@ This is a UI extension for ComfyUI adding an additional inference focused UI, th
 
 Link: https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI
 
+## ● Open Creative Studio for ComfyUI
+
+![](/Open%20Creative%20Studio.jpg)
+
+Design your web front end, customize the APW image generation pipeline, and create your own Midjourney for fashion, e-commerce, game design, architecture, comics, and so much more
+
+Link: https://www.youtube.com/watch?v=lRQoUWtWrHk
+
+
+
+# Category 2: UI for workflows exported in API format
+
+## ● ViewComfy
+
+![](ViewComfy.png)
+
+ViewComfy is an open source tool to help you create beautiful web apps from ComfyUI workflows. It can support multiple workflows in the same UI and works well with image, video, and text outputs.
+
+Link: https://github.com/ViewComfy/ViewComfy
+
 ## ● ComfyUI Mini
 
 ![](ComfyUIMini.png)
@@ -35,13 +48,17 @@ A mobile-friendly WebUI to run ComfyUI workflows.
 
 Link: https://github.com/ImDarkTom/ComfyUIMini
 
-## ● SwarmUI
 
-![](https://github.com/mcmonkeyprojects/SwarmUI/raw/master/.github/images/swarmui.jpg)
 
-A Modular AI Image Generation Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. Supports AI image models (Stable Diffusion, Z-Image, Flux, Qwen Image, etc.), and AI video models (Wan, Hunyuan Video, etc.), with plans to support eg audio and more in the future.
+# Category 3: Use Comfy UI as runner server (worklows made by developers)
 
-Link: https://github.com/mcmonkeyprojects/SwarmUI
+## ● Flow - Streamlined Way to ComfyUI
+
+![](https://github.com/diStyApps/ComfyUI-disty-Flow/blob/main/web/core/media/git/cover_flow.jpg)
+
+Flow is a custom node designed to provide user-friendly interface for ComfyUI by acting as an alternative user interface for running workflows. It is not a replacement for workflow creation.
+
+Link: https://github.com/diStyApps/ComfyUI-disty-Flow
 
 ## ● ComfyGen – Simple WebUI for ComfyUI
 
@@ -60,13 +77,16 @@ This is a yet another frontend for ComfyUI to make it actually not so painful to
 
 Link: https://github.com/SD-inst/cozyui
 
-## ● Open Creative Studio for ComfyUI
+## ● Generative AI for Krita (Krita AI diffusion)
 
-![](/Open%20Creative%20Studio.jpg)
+![](https://raw.githubusercontent.com/Acly/krita-ai-diffusion/main/media/screenshot-regions.png)
 
-Design your web front end, customize the APW image generation pipeline, and create your own Midjourney for fashion, e-commerce, game design, architecture, comics, and so much more
+Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
 
-Link: https://www.youtube.com/watch?v=lRQoUWtWrHk
+Link: https://github.com/Acly/krita-ai-diffusion
+
+
+# Category 4: Use Comfy backend as module to use its functions
 
 ## ● RuinedFooocus
 
@@ -77,11 +97,3 @@ Forget everything you thought you knew about AI art generation - RuinedFooocus i
 (This is a fork of Fooocus, but installs ComfyUI backend for some inference code)
 
 Link: https://github.com/runew0lf/RuinedFooocus
-
-## ● Generative AI for Krita (Krita AI diffusion)
-
-![](https://raw.githubusercontent.com/Acly/krita-ai-diffusion/main/media/screenshot-regions.png)
-
-Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
-
-Link: https://github.com/Acly/krita-ai-diffusion
