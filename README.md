@@ -60,3 +60,10 @@ This is a yet another frontend for ComfyUI to make it actually not so painful to
 
 Link: https://github.com/SD-inst/cozyui
 
+## ● Open Creative Studio for ComfyUI
+
+![](/Open%20Creative%20Studio.jpg)
+
+Design your web front end, customize the APW image generation pipeline, and create your own Midjourney for fashion, e-commerce, game design, architecture, comics, and so much more
+
+Link: https://www.youtube.com/watch?v=lRQoUWtWrHk
