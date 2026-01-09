@@ -97,3 +97,12 @@ Forget everything you thought you knew about AI art generation - RuinedFooocus i
 (This is a fork of Fooocus, but installs ComfyUI backend for some inference code)
 
 Link: https://github.com/runew0lf/RuinedFooocus
+
+## ● Intel AI Playground
+
+<img src="https://game.intel.com/wp-content/uploads/2024/09/AIPG-Enhance-1.2-1024x993.png" height=500>
+
+AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
+
+Link: https://github.com/intel/AI-Playground
+
