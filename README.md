@@ -41,7 +41,7 @@ Link: https://github.com/ImDarkTom/ComfyUIMini
 
 A Modular AI Image Generation Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility. Supports AI image models (Stable Diffusion, Z-Image, Flux, Qwen Image, etc.), and AI video models (Wan, Hunyuan Video, etc.), with plans to support eg audio and more in the future.
 
-Link: https://github.com/mcmonkeyprojects/SwarmUI/raw/master/.github/images/swarmui.jpg
+Link: https://github.com/mcmonkeyprojects/SwarmUI
 
 ## ● ComfyGen – Simple WebUI for ComfyUI
 
