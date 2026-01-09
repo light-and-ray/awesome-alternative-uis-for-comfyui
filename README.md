@@ -51,3 +51,12 @@ A clean and minimal WebUI built for ComfyUI, focused on mobile usability and eas
 This project was developed for personal workflow needs, but feel free to try it out, improve it, or contribute!
 
 Link: https://github.com/Arif-salah/comfygen-studio
+
+## ● CozyUI (fr this time)
+
+![](https://github.com/SD-inst/cozyui/raw/master/.github/1.jpg)
+
+This is a yet another frontend for ComfyUI to make it actually not so painful to use. It's designed after AUTOMATIC1111 Web UI and is mobile-friendly. Not "mobile first" really but I check it there often and improve UX.
+
+Link: https://github.com/SD-inst/cozyui
+
