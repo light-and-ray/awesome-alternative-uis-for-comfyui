@@ -77,3 +77,11 @@ Forget everything you thought you knew about AI art generation - RuinedFooocus i
 (This is a fork of Fooocus, but installs ComfyUI backend for some inference code)
 
 Link: https://github.com/runew0lf/RuinedFooocus
+
+## ● Generative AI for Krita (Krita AI diffusion)
+
+![](https://raw.githubusercontent.com/Acly/krita-ai-diffusion/main/media/screenshot-regions.png)
+
+Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
+
+Link: https://github.com/Acly/krita-ai-diffusion
