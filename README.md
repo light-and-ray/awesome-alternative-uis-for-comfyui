@@ -67,3 +67,13 @@ Link: https://github.com/SD-inst/cozyui
 Design your web front end, customize the APW image generation pipeline, and create your own Midjourney for fashion, e-commerce, game design, architecture, comics, and so much more
 
 Link: https://www.youtube.com/watch?v=lRQoUWtWrHk
+
+## ● RuinedFooocus
+
+![](https://raw.githubusercontent.com/runew0lf/pmmconfigs/main/RuinedFooocus_ss.png)
+
+Forget everything you thought you knew about AI art generation - RuinedFooocus is here to completely reinvent the game!
+
+(This is fork of Fooocus, but installs Comfy backend for some inference code)
+
+Link: https://github.com/runew0lf/RuinedFooocus
