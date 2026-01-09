@@ -85,6 +85,13 @@ Streamlined interface for generating images with AI in Krita. Inpaint and outpai
 
 Link: https://github.com/Acly/krita-ai-diffusion
 
+## ● Stable Diffusion Sketch
+
+<img src="/Stable Diffusion Sketch.jpg" height=600>
+
+Transform your sketches and photos with Stable Diffusion on Android. This app integrates with ComfyUI via a RESTful API, enabling powerful AI image generation capabilities right from your mobile device.
+
+Link: https://github.com/jordenyt/stable_diffusion_sketch
 
 # Category 4: Use Comfy backend as module to use its functions
 
