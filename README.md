@@ -1,4 +1,4 @@
-# Alternative UIs for ComfyUI
+# Awesome Alternative UIs for ComfyUI
 
 Here is a collection of alternative UI that use ComfyUI backend for image generation. The order doesn't matter. Don't hesitate to open an issue or pr if you want to add something
 
