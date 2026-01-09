@@ -48,6 +48,14 @@ A mobile-friendly WebUI to run ComfyUI workflows.
 
 Link: https://github.com/ImDarkTom/ComfyUIMini
 
+## ● Generative AI for Krita (Krita AI diffusion)
+
+![](https://raw.githubusercontent.com/Acly/krita-ai-diffusion/main/media/screenshot-regions.png)
+
+Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
+
+Link: https://github.com/Acly/krita-ai-diffusion
+
 
 
 # Category 3: Use Comfy UI as runner server (worklows made by developers)
@@ -77,14 +85,6 @@ This is a yet another frontend for ComfyUI to make it actually not so painful to
 
 Link: https://github.com/SD-inst/cozyui
 
-## ● Generative AI for Krita (Krita AI diffusion)
-
-![](https://raw.githubusercontent.com/Acly/krita-ai-diffusion/main/media/screenshot-regions.png)
-
-Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.
-
-Link: https://github.com/Acly/krita-ai-diffusion
-
 ## ● Stable Diffusion Sketch
 
 <img src="/Stable Diffusion Sketch.jpg" height=600>
@@ -92,6 +92,8 @@ Link: https://github.com/Acly/krita-ai-diffusion
 Transform your sketches and photos with Stable Diffusion on Android. This app integrates with ComfyUI via a RESTful API, enabling powerful AI image generation capabilities right from your mobile device.
 
 Link: https://github.com/jordenyt/stable_diffusion_sketch
+
+
 
 # Category 4: Use Comfy backend as module to use its functions
 
