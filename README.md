@@ -63,6 +63,13 @@ Streamlined interface for generating images with AI in Krita. Inpaint and outpai
 
 Link: https://github.com/Acly/krita-ai-diffusion
 
+## ● Intel AI Playground
+
+<img src="https://game.intel.com/wp-content/uploads/2024/09/AIPG-Enhance-1.2-1024x993.png" height=500>
+
+AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
+
+Link: https://github.com/intel/AI-Playground
 
 
 # Category 3: Use Comfy UI as runner server (worklows made by developers)
@@ -118,14 +125,6 @@ Link: https://nodetool.ai/
 Forget everything you thought you knew about AI art generation - RuinedFooocus is here to completely reinvent the game!
 
 Link: https://github.com/runew0lf/RuinedFooocus
-
-## ● Intel AI Playground
-
-<img src="https://game.intel.com/wp-content/uploads/2024/09/AIPG-Enhance-1.2-1024x993.png" height=500>
-
-AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
-
-Link: https://github.com/intel/AI-Playground
 
 ## ● DreamLayer AI
 
