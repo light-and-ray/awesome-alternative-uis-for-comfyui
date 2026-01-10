@@ -22,7 +22,7 @@ Link: https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI
 
 ## ● Open Creative Studio for ComfyUI
 
-![](/Open%20Creative%20Studio.jpg)
+![](/assets/Open%20Creative%20Studio.jpg)
 
 Design your web front end, customize the APW image generation pipeline, and create your own Midjourney for fashion, e-commerce, game design, architecture, comics, and so much more
 
@@ -34,7 +34,7 @@ Link: https://www.youtube.com/watch?v=lRQoUWtWrHk
 
 ## ● ViewComfy
 
-![](ViewComfy.png)
+![](/assets/ViewComfy.png)
 
 ViewComfy is an open source tool to help you create beautiful web apps from ComfyUI workflows. It can support multiple workflows in the same UI and works well with image, video, and text outputs.
 
@@ -42,7 +42,7 @@ Link: https://github.com/ViewComfy/ViewComfy
 
 ## ● ComfyUI Mini
 
-![](ComfyUIMini.png)
+![](/assets/ComfyUIMini.png)
 
 A mobile-friendly WebUI to run ComfyUI workflows.
 
@@ -87,7 +87,7 @@ Link: https://github.com/SD-inst/cozyui
 
 ## ● Stable Diffusion Sketch
 
-<img src="/Stable Diffusion Sketch.jpg" height=600>
+<img src="/assets/Stable Diffusion Sketch.jpg" height=600>
 
 Transform your sketches and photos with Stable Diffusion on Android. This app integrates with ComfyUI via a RESTful API, enabling powerful AI image generation capabilities right from your mobile device.
 
@@ -123,7 +123,7 @@ Link: https://github.com/intel/AI-Playground
 
 ## ● DreamLayer AI
 
-![](DreamLayer.png)
+![](/assets/DreamLayer.png)
 
 DreamLayer AI is an open source platform for benchmarking and evaluating diffusion models. It currently supports image generation, with video and audio model benchmarking coming soon. It automates the full workflow from prompts and seeds to metrics and logging, making experiments reproducible by default.
 
