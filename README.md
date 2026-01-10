@@ -12,6 +12,14 @@ A Modular AI Image Generation Web-User-Interface, with an emphasis on making pow
 
 Link: https://github.com/mcmonkeyprojects/SwarmUI
 
+## ● Controller (cg-controller)
+
+![](https://github.com/chrisgoringe/cg-controller/raw/main/images/example.png)
+
+The Controller is a new way to interact with a Comfy workflow, in which just the nodes that you select are mirrored in the Controller, without you needing to make any changes to the workflow itself.
+
+Link: https://github.com/chrisgoringe/cg-controller
+
 ## ● Minimalistic Comfy Wrapper WebUI
 
 ![](https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI/raw/master/docs/assets/readmeMainImage.png)
@@ -27,7 +35,6 @@ Link: https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI
 Design your web front end, customize the APW image generation pipeline, and create your own Midjourney for fashion, e-commerce, game design, architecture, comics, and so much more
 
 Link: https://www.youtube.com/watch?v=lRQoUWtWrHk
-
 
 
 # Category 2: UI for workflows exported in API format
@@ -102,7 +109,6 @@ Connect AI building blocks to generate content, analyze data, and automate tasks
 Link: https://nodetool.ai/
 
 
-
 # Category 4: Use Comfy backend as module to use its functions
 
 ## ● RuinedFooocus
@@ -128,3 +134,4 @@ Link: https://github.com/intel/AI-Playground
 DreamLayer AI is an open source platform for benchmarking and evaluating diffusion models. It currently supports image generation, with video and audio model benchmarking coming soon. It automates the full workflow from prompts and seeds to metrics and logging, making experiments reproducible by default.
 
 Link: https://github.com/DreamLayer-AI/DreamLayer
+
