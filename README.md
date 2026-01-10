@@ -1,6 +1,6 @@
 # Awesome Alternative UIs for ComfyUI
 
-Here is a collection of alternative UI that use ComfyUI backend for image generation. The order doesn't matter. Don't hesitate to open an issue or pr if you want to add something
+Here is a collection of alternative UI that use ComfyUI backend for image generation. The order doesn't matter. Don't hesitate to open an issue or pr if you want to add something. This list is not curated, it provides a screenshot and a bief descripion from the project itself
 
 # Category 1: Close integration, work with the same workflows
 
