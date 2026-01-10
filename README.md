@@ -93,6 +93,14 @@ Transform your sketches and photos with Stable Diffusion on Android. This app in
 
 Link: https://github.com/jordenyt/stable_diffusion_sketch
 
+## ● NodeTool
+
+![](https://nodetool.ai/_next/image?url=%2Fscreen_canvas.png&w=3840&q=75)
+
+Connect AI building blocks to generate content, analyze data, and automate tasks. Use models on your machine or in the cloud. Your workflows, your data—always under your control.
+
+Link: https://nodetool.ai/
+
 
 
 # Category 4: Use Comfy backend as module to use its functions
