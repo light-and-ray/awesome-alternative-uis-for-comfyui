@@ -109,7 +109,7 @@ Connect AI building blocks to generate content, analyze data, and automate tasks
 Link: https://nodetool.ai/
 
 
-# Category 4: Use Comfy backend as module to use its functions
+# Category 4: Use Comfy backend as a module to use its functions
 
 ## ● RuinedFooocus
 
