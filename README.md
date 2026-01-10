@@ -113,3 +113,10 @@ AI PC starter app for doing AI image creation, image stylizing, and chatbot on a
 
 Link: https://github.com/intel/AI-Playground
 
+## ● DreamLayer AI
+
+![](DreamLayer.png)
+
+DreamLayer AI is an open source platform for benchmarking and evaluating diffusion models. It currently supports image generation, with video and audio model benchmarking coming soon. It automates the full workflow from prompts and seeds to metrics and logging, making experiments reproducible by default.
+
+Link: https://github.com/DreamLayer-AI/DreamLayer
