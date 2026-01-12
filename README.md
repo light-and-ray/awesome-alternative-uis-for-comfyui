@@ -134,3 +134,10 @@ DreamLayer AI is an open source platform for benchmarking and evaluating diffusi
 
 Link: https://github.com/DreamLayer-AI/DreamLayer
 
+## ● LightDiffusion-Next
+
+![](https://github.com/Aatricks/LightDiffusion-Next/raw/main/HomeImage.png)
+
+LightDiffusion-Next is the fastest AI-powered image generation WebUI, combining speed, precision, and flexibility in one cohesive tool. 
+
+Link: https://github.com/Aatricks/LightDiffusion-Next/tree/main
