@@ -46,7 +46,6 @@ This project operates as a ComfyUI Custom Node that serves a modern, responsive 
 
 Link: https://github.com/cosmicbuffalo/comfyui-mobile-frontend
 
-
 ## ● ComfyMobileUI
 
 <img src="https://github.com/jaeone94/comfy-mobile-ui/raw/main/public/showcases/2.gif" height=500>
@@ -97,6 +96,14 @@ Link: https://github.com/intel/AI-Playground
 Comfy App is an unofficial client for Android that connects with a local ComfyUI server, allowing users to upload, manage, and view image or video generation pipelines in an easy and intuitive interface.
 
 Link: https://github.com/deni2312/ComfyUIMobileApp
+
+## ● ComfyUI Workflow Hub
+
+![](https://github.com/ennis-ma/ComfyUI-Workflow-Hub/raw/main/screenshot.png)
+
+A modern web interface for managing and executing ComfyUI workflows. This project provides a user-friendly way to upload, manage, and execute ComfyUI workflows through a clean web interface or API.
+
+Link: https://github.com/ennis-ma/ComfyUI-Workflow-Hub
 
 
 # Category 3: Use Comfy UI as runner server (worklows made by developers)
