@@ -80,6 +80,13 @@ AI PC starter app for doing AI image creation, image stylizing, and chatbot on a
 
 Link: https://github.com/intel/AI-Playground
 
+## ● 🛋️ Comfy App (ComfyUIMobileApp)
+
+<img src="https://github.com/deni2312/ComfyUIMobileApp/blob/main/video/showcase.gif?raw=true" height=500>
+
+Comfy App is an unofficial client for Android that connects with a local ComfyUI server, allowing users to upload, manage, and view image or video generation pipelines in an easy and intuitive interface.
+
+Link: https://github.com/deni2312/ComfyUIMobileApp
 
 # Category 3: Use Comfy UI as runner server (worklows made by developers)
 
