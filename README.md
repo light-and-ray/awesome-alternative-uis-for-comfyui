@@ -149,6 +149,13 @@ Connect AI building blocks to generate content, analyze data, and automate tasks
 
 Link: https://nodetool.ai/
 
+## ● Stability Matrix
+
+![](/assets/StabilityMatrix.webp)
+
+Multi-Platform Package Manager and Inference UI for Stable Diffusion
+
+Link: https://github.com/LykosAI/StabilityMatrix
 
 # Category 4: Use Comfy backend as a module to use its functions
 
