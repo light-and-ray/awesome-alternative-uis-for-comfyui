@@ -36,6 +36,15 @@ Design your web front end, customize the APW image generation pipeline, and crea
 
 Link: https://www.youtube.com/watch?v=lRQoUWtWrHk
 
+## ● ComfyUI Mobile Frontend
+
+<img src="/assets/ComfyUIMobileFrontend.png" height=500>
+
+An experimental dedicated mobile-first frontend for ComfyUI.
+
+This project operates as a ComfyUI Custom Node that serves a modern, responsive React application. It is designed to make monitoring and managing your ComfyUI workflows and queue easy and accessible from your phone or tablet.
+
+Link: https://github.com/cosmicbuffalo/comfyui-mobile-frontend
 
 # Category 2: UI for workflows exported in API format
 
