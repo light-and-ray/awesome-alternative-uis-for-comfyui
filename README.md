@@ -121,6 +121,20 @@ A modern web interface for managing and executing ComfyUI workflows. This projec
 Link: https://github.com/ennis-ma/ComfyUI-Workflow-Hub
 
 
+## ● Mycraft
+
+![](https://github.com/sorption-dev/mycraft-comfyui/raw/main/docs/preview_01.JPG)
+
+Generate images in story board way. Mycraft provides a limitless storyboard experience for image generation, powered by the ComfyUI API. 
+
+Link: https://github.com/sorption-dev/mycraft-comfyui
+
+
+
+
+
+
+
 # Category 3: Use Comfy UI as runner server (worklows made by developers)
 
 ## ● Flow - Streamlined Way to ComfyUI
