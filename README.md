@@ -194,3 +194,11 @@ Link: https://github.com/DreamLayer-AI/DreamLayer
 LightDiffusion-Next is the fastest AI-powered image generation WebUI, combining speed, precision, and flexibility in one cohesive tool. 
 
 Link: https://github.com/Aatricks/LightDiffusion-Next/tree/main
+
+## ● ComfyStudio (Node.js, StableStudio fork)
+
+![](https://github.com/tchr-dev/ComfyStudio/blob/main/misc/GenerateScreenshot.png?raw=true)
+
+ComfyStudio - Enhanced StableStudio with native ComfyUI integration for local image generation 
+ 
+Link: https://github.com/tchr-dev/ComfyStudio
