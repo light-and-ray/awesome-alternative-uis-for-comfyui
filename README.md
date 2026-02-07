@@ -63,6 +63,16 @@ ComfyChair provides a streamlined mobile interface for interacting with ComfyUI 
 
 Link: https://github.com/legal-hkr/comfychair
 
+## ● ComfyScript
+
+![](https://github.com/Chaoses-Ib/ComfyScript/raw/main/docs/imgs/README/plot.png)
+
+A Python frontend and library for ComfyUI 
+
+Link: https://github.com/Chaoses-Ib/ComfyScript
+
+
+
 
 
 
