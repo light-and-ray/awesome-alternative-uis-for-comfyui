@@ -48,7 +48,7 @@ Link: https://github.com/cosmicbuffalo/comfyui-mobile-frontend
 
 ## ● ComfyMobileUI
 
-<img src="https://github.com/jaeone94/comfy-mobile-ui/raw/main/public/showcases/2.gif" height=500>
+https://github.com/user-attachments/assets/20480b56-5c01-4c27-9401-0d4ba455dd81
 
 A mobile-first, node-style web interface for ComfyUI Bringing ComfyUI's familiar node graph workflows to your mobile device
 
