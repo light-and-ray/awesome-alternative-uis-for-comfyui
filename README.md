@@ -157,6 +157,18 @@ Multi-Platform Package Manager and Inference UI for Stable Diffusion
 
 Link: https://github.com/LykosAI/StabilityMatrix
 
+## ● Z-Fusion
+
+![](https://github.com/ai-anchorite/Z-Fusion/raw/main/app/assets/upscale-tab.png)
+
+Z-Image, Flux2 Klein, & SeedVR2 with a Gradio UI. Uses a built-in ComfyUI backend for speed and efficiency! [8GB+VRAM, 32GB+ RAM] 
+
+Link: https://github.com/ai-anchorite/Z-Fusion
+
+
+
+
+
 # Category 4: Use Comfy backend as a module to use its functions
 
 ## ● RuinedFooocus
