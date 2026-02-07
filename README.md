@@ -55,6 +55,21 @@ A mobile-first, node-style web interface for ComfyUI Bringing ComfyUI's familiar
 Link: https://github.com/jaeone94/comfy-mobile-ui
 
 
+## ● ComfyChair
+
+<img src="https://github.com/legal-hkr/comfychair/raw/main/metadata/en-US/images/phoneScreenshots/1.png" width="200"/> <img src="https://github.com/legal-hkr/comfychair/raw/main/metadata/en-US/images/phoneScreenshots/2.png" width="200"/> <img src="https://github.com/legal-hkr/comfychair/raw/main/metadata/en-US/images/phoneScreenshots/3.png" width="200"/> <img src="https://github.com/legal-hkr/comfychair/raw/main/metadata/en-US/images/phoneScreenshots/4.png" width="200"/> <img src="https://github.com/legal-hkr/comfychair/raw/main/metadata/en-US/images/phoneScreenshots/5.png" width="200"/> <img src="https://github.com/legal-hkr/comfychair/raw/main/metadata/en-US/images/phoneScreenshots/6.png" width="200"/> <img src="https://github.com/legal-hkr/comfychair/raw/main/metadata/en-US/images/phoneScreenshots/7.png" width="200"/> <img src="https://github.com/legal-hkr/comfychair/raw/main/metadata/en-US/images/phoneScreenshots/8.png" width="200"/>
+
+ComfyChair provides a streamlined mobile interface for interacting with ComfyUI servers, allowing you to generate and manage AI images and videos directly from your Android device. The app communicates with your ComfyUI server via its API, bringing the power of node-based AI generation to your mobile workflow.
+
+Link: https://github.com/legal-hkr/comfychair
+
+
+
+
+
+
+
+
 # Category 2: UI for workflows exported in API format
 
 ## ● ViewComfy
