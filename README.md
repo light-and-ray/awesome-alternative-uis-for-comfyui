@@ -108,7 +108,7 @@ Link: https://github.com/Acly/krita-ai-diffusion
 
 ## ● Intel AI Playground
 
-<img src="https://game.intel.com/wp-content/uploads/2024/09/AIPG-Enhance-1.2-1024x993.png" height=500>
+<img src="/assets/IntelAIPlayground.png" height=500>
 
 AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
 
