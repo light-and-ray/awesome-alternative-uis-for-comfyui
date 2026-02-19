@@ -204,6 +204,14 @@ Z-Image, Flux2 Klein, & SeedVR2 with a Gradio UI. Uses a built-in ComfyUI backen
 
 Link: https://github.com/ai-anchorite/Z-Fusion
 
+## ● Cushy Studio
+
+![](/assets/CushyStudio.jpeg)
+
+CushyStudio is the go-to platform for easy generative AI use, empowering creatives of any level to effortlessly create stunning images, videos, and 3D models.
+
+Link: https://github.com/rvion/CushyStudio/
+
 
 
 
