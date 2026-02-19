@@ -212,6 +212,15 @@ CushyStudio is the go-to platform for easy generative AI use, empowering creativ
 
 Link: https://github.com/rvion/CushyStudio/
 
+## ● OpenViz
+
+![](https://github.com/Sander-HR/openviz/blob/main/public/images/interface.png?raw=true)
+
+OpenViz is an AI-powered design application that transforms hand-sketched drawings and imported images into photorealistic renders using advanced text-to-image models. Optimized for designers, architects, and product creators, OpenViz provides a fast, intuitive workflow to explore design iterations visually in seconds.
+
+Link: https://github.com/Sander-HR/openviz
+
+
 
 
 
