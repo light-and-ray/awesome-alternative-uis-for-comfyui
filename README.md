@@ -141,6 +141,16 @@ Link: https://github.com/sorption-dev/mycraft-comfyui
 
 
 
+## ● ComfyUI WebUI Generator
+
+![](https://github.com/ai-joe-git/comfyui-webui-generator/blob/main/step_4_serve_html.png)
+
+Turn any ComfyUI workflow (API JSON) into a beautiful, standalone HTML Web App — with zero frontend coding.
+
+Link: https://github.com/ai-joe-git/comfyui-webui-generator
+
+
+
 
 
 
