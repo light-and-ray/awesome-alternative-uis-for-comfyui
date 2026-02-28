@@ -157,14 +157,6 @@ Link: https://github.com/ai-joe-git/comfyui-webui-generator
 
 # Category 3: Use Comfy UI as runner server (worklows made by developers)
 
-## ● Flow - Streamlined Way to ComfyUI
-
-![](https://github.com/diStyApps/ComfyUI-disty-Flow/blob/main/web/core/media/git/cover_flow.jpg)
-
-Flow is a custom node designed to provide user-friendly interface for ComfyUI by acting as an alternative user interface for running workflows. It is not a replacement for workflow creation.
-
-Link: https://github.com/diStyApps/ComfyUI-disty-Flow
-
 ## ● ComfyGen – Simple WebUI for ComfyUI
 
 ![](https://github.com/Arif-salah/comfygen-studio/raw/main/assets/screenshot.jpg)
@@ -214,14 +206,6 @@ Z-Image, Flux2 Klein, & SeedVR2 with a Gradio UI. Uses a built-in ComfyUI backen
 
 Link: https://github.com/ai-anchorite/Z-Fusion
 
-## ● Cushy Studio
-
-![](/assets/CushyStudio.jpeg)
-
-CushyStudio is the go-to platform for easy generative AI use, empowering creatives of any level to effortlessly create stunning images, videos, and 3D models.
-
-Link: https://github.com/rvion/CushyStudio/
-
 ## ● OpenViz
 
 ![](https://github.com/Sander-HR/openviz/blob/main/public/images/interface.png?raw=true)
@@ -268,3 +252,40 @@ Link: https://github.com/Aatricks/LightDiffusion-Next/tree/main
 ComfyStudio - Enhanced StableStudio with native ComfyUI integration for local image generation 
  
 Link: https://github.com/tchr-dev/ComfyStudio
+
+------------------------------------------------------------
+
+# Abandoned projects - most likely require writting patches to make them work
+
+## ● Flow - Streamlined Way to ComfyUI
+
+![](https://github.com/diStyApps/ComfyUI-disty-Flow/blob/main/web/core/media/git/cover_flow.jpg)
+
+Flow is a custom node designed to provide user-friendly interface for ComfyUI by acting as an alternative user interface for running workflows. It is not a replacement for workflow creation.
+
+Link: https://github.com/diStyApps/ComfyUI-disty-Flow
+
+## ● Cushy Studio
+
+![](/assets/CushyStudio.jpeg)
+
+CushyStudio is the go-to platform for easy generative AI use, empowering creatives of any level to effortlessly create stunning images, videos, and 3D models.
+
+Link: https://github.com/rvion/CushyStudio/
+
+## ● ComfyBox
+
+![](https://github.com/space-nuko/ComfyBox/blob/master/static/screenshot.png?raw=true)
+
+ComfyBox is a frontend to Stable Diffusion that lets you create custom image generation interfaces without any code. It uses ComfyUI under the hood for maximum power and extensibility.
+
+Link: https://github.com/space-nuko/ComfyBox
+
+
+## ● WhatsAI - An easy-to-use UI fully based on ComfyUI.
+
+![](/assets/WhatsAI.jpg)
+
+Simply put: You can translate any ComfyUI workflow into a WhatsAI Card (a UI built with React and Mantine).
+
+Link: https://github.com/benchiong/whatsai-client
