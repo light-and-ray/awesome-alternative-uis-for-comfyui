@@ -71,6 +71,14 @@ A Python frontend and library for ComfyUI
 
 Link: https://github.com/Chaoses-Ib/ComfyScript
 
+## ● Comfy Pilot
+
+![](https://github.com/ConstantineB6/Comfy-Pilot/raw/main/thumbnail.jpg)
+
+MCP server + embedded terminal that lets Claude Code see and edit your ComfyUI workflows. Claude Code interacts with the workflow graph directly through MCP tools (search nodes, create/connect/delete, set values, run queue, view outputs).
+
+Link: https://github.com/ConstantineB6/Comfy-Pilot
+
 
 
 
