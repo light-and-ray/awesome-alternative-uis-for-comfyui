@@ -159,6 +159,17 @@ A sleek, responsive android app that connects directly to your local ComfyUI ser
 Link: https://github.com/Arif-salah/Nexa_comfyui
 
 
+## ● CivitDeck
+
+<img src="https://github.com/rioX432/CivitDeck/blob/master/docs/screenshots/ios_search.png?raw=true" height=600>
+
+CivitAI mobile client for Android & iOS — built with Kotlin Multiplatform (KMP). ComfyUI & SD WebUI Integration — send models to ComfyUI or Automatic1111/Forge, manage the generation queue, browse generation history, import custom workflows, and use LoRA/ControlNet support
+
+Link: https://github.com/rioX432/CivitDeck
+
+
+
+
 
 
 
