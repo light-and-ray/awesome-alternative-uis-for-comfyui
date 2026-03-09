@@ -150,6 +150,13 @@ Turn any ComfyUI workflow (API JSON) into a beautiful, standalone HTML Web App ‚
 Link: https://github.com/ai-joe-git/comfyui-webui-generator
 
 
+## ‚óè Nexa - Your On-the-Go ComfyUI Companion
+
+![](/assets/Nexa.png)
+
+A sleek, responsive android app that connects directly to your local ComfyUI server. Generate images from your phone, build dynamic UIs from JSON workflows, upload images to LoadImage nodes.
+
+Link: https://github.com/Arif-salah/Nexa_comfyui
 
 
 
