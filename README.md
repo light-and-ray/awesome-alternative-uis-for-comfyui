@@ -71,6 +71,14 @@ A Python frontend and library for ComfyUI
 
 Link: https://github.com/Chaoses-Ib/ComfyScript
 
+## ● WorkflowUI
+
+![](https://github.com/jimpi-dev/WorkflowUI/raw/develop/Docs/CreateAppBoth.jpg)
+
+Turn ComfyUI workflows into web apps. Import workflow JSON, build custom apps with forms and defaults, run workflows through a queue, and organize results in projects.
+
+Link: https://github.com/jimpi-dev/WorkflowUI/
+
 
 
 
