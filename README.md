@@ -240,6 +240,15 @@ OpenViz is an AI-powered design application that transforms hand-sketched drawin
 
 Link: https://github.com/Sander-HR/openviz
 
+## ● ComfyUI Simple Interface GUI
+
+![](https://github.com/da2el-ai/simple-comfyui-gui/blob/main/img/top_pc_2.png)
+
+(Translated from Japanese) I created this tool because I wanted to be able to generate images using ComfyUI from my smartphone while on the go. Unlike my previous "ComfyUI Simple Interface," this version is a desktop application, so it's much easier to use without the hassle of setting up an environment. I have also completely rebuilt and enhanced the frontend features.
+
+Link: https://github.com/da2el-ai/simple-comfyui-gui
+
+
 
 
 
