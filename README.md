@@ -138,7 +138,6 @@ A modern web interface for managing and executing ComfyUI workflows. This projec
 
 Link: https://github.com/ennis-ma/ComfyUI-Workflow-Hub
 
-
 ## ● Mycraft
 
 ![](https://github.com/sorption-dev/mycraft-comfyui/raw/main/docs/preview_01.JPG)
@@ -146,8 +145,6 @@ Link: https://github.com/ennis-ma/ComfyUI-Workflow-Hub
 Generate images in story board way. Mycraft provides a limitless storyboard experience for image generation, powered by the ComfyUI API. 
 
 Link: https://github.com/sorption-dev/mycraft-comfyui
-
-
 
 ## ● ComfyUI WebUI Generator
 
@@ -157,7 +154,6 @@ Turn any ComfyUI workflow (API JSON) into a beautiful, standalone HTML Web App �
 
 Link: https://github.com/ai-joe-git/comfyui-webui-generator
 
-
 ## ● Nexa - Your On-the-Go ComfyUI Companion
 
 ![](/assets/Nexa.png)
@@ -166,7 +162,6 @@ A sleek, responsive android app that connects directly to your local ComfyUI ser
 
 Link: https://github.com/Arif-salah/Nexa_comfyui
 
-
 ## ● CivitDeck
 
 <img src="https://github.com/rioX432/CivitDeck/blob/master/docs/screenshots/ios_search.png?raw=true" height=600>
@@ -174,6 +169,14 @@ Link: https://github.com/Arif-salah/Nexa_comfyui
 CivitAI mobile client for Android & iOS — built with Kotlin Multiplatform (KMP). ComfyUI & SD WebUI Integration — send models to ComfyUI or Automatic1111/Forge, manage the generation queue, browse generation history, import custom workflows, and use LoRA/ControlNet support
 
 Link: https://github.com/rioX432/CivitDeck
+
+## ● ComfyUI Skills for OpenClaw
+
+![](https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw/blob/main/asset/banner-ui-dashboard-20260322.png?raw=true)
+
+This project is a ComfyUI skill integration layer for OpenClaw, Codex, and Claude Code. It turns the workflows you build and export from ComfyUI in API format into callable skills that these agents can trigger with natural language.
+
+Link: https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw
 
 
 
