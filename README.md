@@ -261,6 +261,17 @@ Link: https://github.com/Sander-HR/openviz
 
 Link: https://github.com/da2el-ai/simple-comfyui-gui
 
+## ● ComfyStudio (Electron)
+
+![](/assets/ComfyStudioElectron.png)
+
+ComfyStudio is a desktop animatic, previsualization, and AI-assisted editing tool built around a local ComfyUI workflow. It combines a timeline editor, asset browser, Generate workspace, stock search, LM Studio prompt helper, and export queue in one app.
+
+Link: https://github.com/JaimeIsMe/comfystudio
+
+
+
+
 
 
 
