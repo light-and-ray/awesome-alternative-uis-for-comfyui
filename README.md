@@ -348,3 +348,11 @@ Link: https://github.com/space-nuko/ComfyBox
 Simply put: You can translate any ComfyUI workflow into a WhatsAI Card (a UI built with React and Mantine).
 
 Link: https://github.com/benchiong/whatsai-client
+
+## ● Locally Uncensored
+
+![](https://raw.githubusercontent.com/PurpleDoubleD/locally-uncensored/master/docs/screenshots/marketing_06_create_view.png)
+
+All-in-one local AI app that combines uncensored chat (via Ollama), image generation (via ComfyUI), and video generation in a single modern UI. Features 25+ built-in personas, model manager, dark/light mode, and runs 100% offline. No Docker required.
+
+Link: https://github.com/PurpleDoubleD/locally-uncensored
