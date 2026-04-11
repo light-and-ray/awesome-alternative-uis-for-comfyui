@@ -278,6 +278,16 @@ All-in-one local AI app that combines uncensored chat (via Ollama), image genera
 Link: https://github.com/PurpleDoubleD/locally-uncensored
 
 
+## ● ComfyUI-RookieUI
+
+![](https://github.com/rookiestar28/ComfyUI-RookieUI/blob/main/assets/rookieui.gif?raw=true)
+
+ComfyUI-RookieUI is a ComfyUI custom node extension that reproduces an A1111/Forge-style sidebar workflow while keeping inference inside native ComfyUI execution. The project target is not only visual similarity. RookieUI aims to reproduce A1111-style workflow semantics for Stable Diffusion in a ComfyUI host
+
+Link: https://github.com/rookiestar28/ComfyUI-RookieUI
+
+
+
 
 
 
