@@ -72,6 +72,14 @@ Turn ComfyUI workflows into web apps. Import workflow JSON, build custom apps wi
 
 Link: https://github.com/jimpi-dev/WorkflowUI/
 
+## ● FlowScale AIOS
+
+![](/assets/FlowScaleAIOS.png)
+
+An open-source platform to build, test, and deploy AI workflows powered by ComfyUI — available as a web app and native desktop app.
+
+Link: https://github.com/FlowScale-AI/flowscale-aios
+
 
 
 
