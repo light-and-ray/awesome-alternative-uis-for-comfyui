@@ -12,13 +12,6 @@ A Modular AI Image Generation Web-User-Interface, with an emphasis on making pow
 
 Link: https://github.com/mcmonkeyprojects/SwarmUI
 
-## ● Controller (cg-controller)
-
-![](https://github.com/chrisgoringe/cg-controller/raw/main/images/example.png)
-
-The Controller is a new way to interact with a Comfy workflow, in which just the nodes that you select are mirrored in the Controller, without you needing to make any changes to the workflow itself.
-
-Link: https://github.com/chrisgoringe/cg-controller
 
 ## ● Minimalistic Comfy Wrapper WebUI
 
