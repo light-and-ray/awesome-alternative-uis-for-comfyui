@@ -264,7 +264,7 @@ Link: https://github.com/JaimeIsMe/comfystudio
 
 ## ● Locally Uncensored
 
-![](https://raw.githubusercontent.com/PurpleDoubleD/locally-uncensored/master/docs/screenshots/marketing_06_create_view.png)
+![](https://github.com/PurpleDoubleD/locally-uncensored/raw/master/docs/demo.gif)
 
 All-in-one local AI app that combines uncensored chat (via Ollama), image generation (via ComfyUI), and video generation in a single modern UI. Uses pre-built ComfyUI workflows for image and video generation. Features 25+ built-in personas, model manager, dark/light mode, and runs 100% offline. No Docker required.
 
