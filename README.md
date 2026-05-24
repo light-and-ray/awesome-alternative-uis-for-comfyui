@@ -294,6 +294,14 @@ PixlStash is a local picture library server for organizing, filtering, and revie
 
 Link: https://github.com/pikselkroken/pixlstash
 
+## ● Infinite-Canvas
+
+![](/assets/Infinite-Canvas.png)
+
+Infinite-Canvas is a Chinese-language ComfyUI client that supports both local and Modelscope-hosted inference. It includes a limited set of workflows for image generation, editing, and upscaling.
+
+Link: https://github.com/hero8152/Infinite-Canvas
+
 
 
 
