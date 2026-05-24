@@ -196,6 +196,15 @@ ComfyUI_bsk_UI is a modern and user-friendly interface for ComfyUI, designed to 
 
 Link: https://github.com/ikusag-png/ComfyUI_bsk_UI
 
+## ● OutSweeper
+
+![](https://github.com/Sorbiers/outsweeper/blob/master/docs/screenshot.png)
+
+AI Generation Output Triage for ComfyUI
+A fast, keyboard-driven photo triage tool. Open a folder, browse images in a scrollable strip, and sort them into selected or dust sub-folders — all without leaving the keyboard. Pairs naturally with ComfyUI and LM Studio for AI-assisted workflows.
+
+Link: https://github.com/Sorbiers/outsweeper
+
 
 
 
