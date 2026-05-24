@@ -80,6 +80,15 @@ An open-source platform to build, test, and deploy AI workflows powered by Comfy
 
 Link: https://github.com/FlowScale-AI/flowscale-aios
 
+## ● ComfyUI-Workflow-Studio
+
+![](https://github.com/ketle-man/ComfyUI-Workflow-Studio/blob/main/docs/4_GenUI_feeder.png)
+
+A comprehensive workflow management and generation UI plugin for ComfyUI.
+Browse, organize, and execute workflows directly from a dedicated studio interface — without switching between windows or manually editing JSON.
+
+Link: https://github.com/ketle-man/ComfyUI-Workflow-Studio
+
 
 
 
