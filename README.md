@@ -190,7 +190,7 @@ Link: https://github.com/rioX432/CivitDeck
 
 ## ● ComfyUI Skills for OpenClaw
 
-![](https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw/blob/main/asset/banner-ui-dashboard-20260322.png?raw=true)
+![](https://github.com/HuangYuChuh/ComfyUI_Skills_OpenClaw/blob/main/asset/banner.png)
 
 This project is a ComfyUI skill integration layer for OpenClaw, Codex, and Claude Code. It turns the workflows you build and export from ComfyUI in API format into callable skills that these agents can trigger with natural language.
 
