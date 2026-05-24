@@ -89,6 +89,14 @@ Browse, organize, and execute workflows directly from a dedicated studio interfa
 
 Link: https://github.com/ketle-man/ComfyUI-Workflow-Studio
 
+## ● Promptus CosyUI
+
+![](/assets/Promptus.png)
+
+CosyUI transforms workflows, pipelines, and scripts into CosyFlows — structured AI tools you can run locally, share with others, and scale in the cloud. 
+ 
+Link: https://www.promptus.ai/comfyui
+
 
 
 
