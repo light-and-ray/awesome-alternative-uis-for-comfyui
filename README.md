@@ -323,7 +323,7 @@ Link: https://github.com/hero8152/Infinite-Canvas
 
 
 
-# Category 4: Use Comfy backend as a module to use its functions
+# Category 4: Use Comfy backend as a module to use its functions, or very close connection with installed ComfyUI instance
 
 ## ● RuinedFooocus
 
@@ -366,6 +366,15 @@ MooshieUI is a beginner-friendly interface for ComfyUI that now runs in two mode
 - Browser/server mode via the built-in web server (LAN/Docker friendly, mobile-friendly UI)
 
 Link: https://github.com/Mooshieblob1/MooshieUI
+
+## ● The Halleen Machine
+
+![](/assets/TheHalleenMachine.png)
+
+Workflow management system for AI video generation using ComfyUI.
+Organize AI video projects into structured timelines. Create reusable asset libraries for poses, characters, locations, and styles. Batch operations for generation, upscaling, and exports.
+
+Link: https://github.com/mikehalleen/the-halleen-machine
 
 
 
