@@ -357,6 +357,31 @@ ComfyStudio - Enhanced StableStudio with native ComfyUI integration for local im
  
 Link: https://github.com/tchr-dev/ComfyStudio
 
+## ● MooshieUI
+
+![](https://github.com/Mooshieblob1/MooshieUI/blob/main/screenshot.avif)
+
+MooshieUI is a beginner-friendly interface for ComfyUI that now runs in two modes:
+- Desktop app mode via Tauri (Windows/Linux, macOS source build)
+- Browser/server mode via the built-in web server (LAN/Docker friendly, mobile-friendly UI)
+
+Link: https://github.com/Mooshieblob1/MooshieUI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ------------------------------------------------------------
 
 # Abandoned projects - most likely require writting patches to make them work
