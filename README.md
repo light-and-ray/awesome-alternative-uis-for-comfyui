@@ -158,6 +158,15 @@ SmartComfy is a Chinese-language AI workflow management platform that provides v
 
 Link: https://github.com/shenhuaxiyuan/SmartComfy
 
+## ● ComfyUI Wizard
+
+![](/assets/ComfyUI-Wizard.png)
+
+Turn any ComfyUI workflow into a production-ready API.
+The Wizard catalogues nodes, models, and dependencies from real-world workflows, and spins up a working Docker container that you can use anywhere.
+
+Link: https://comfy.getrunpod.io
+
 
 
 
