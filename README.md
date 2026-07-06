@@ -167,6 +167,15 @@ The Wizard catalogues nodes, models, and dependencies from real-world workflows,
 
 Link: https://comfy.getrunpod.io
 
+## ● SmartGallery DAM
+
+![](https://raw.githubusercontent.com/biagiomaf/smart-comfyui-gallery/82e8d286164ccb9e9691515901cd448b52630757/assets/hero_main_workspace.png)
+
+SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI and any media folder.
+Includes an advanced file manager, metadata search, color-coded status tags, ratings, collections, and the ability to share curated work with clients without exposing a single node.
+
+Link: https://github.com/biagiomaf/smart-comfyui-gallery
+
 
 
 
