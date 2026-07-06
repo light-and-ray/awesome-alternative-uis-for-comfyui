@@ -115,6 +115,13 @@ Acting as a central hub, it seamlessly bridges local ComfyUI computing power wit
 
 Link: https://github.com/Ginolazy/ComfyPanel
 
+## ● Codex Studio
+
+![](https://github.com/gvastethecreator/codex-studio/blob/4bcde2869d4e05fa98c1ad7e2830f73bbda2220d/docs/assets/screenshots/studio.webp?raw=true)
+
+A local-first image studio for creating, reviewing, and organizing AI images through your authenticated Codex/ChatGPT session.
+
+Link: https://github.com/gvastethecreator/codex-studio
 
 
 
