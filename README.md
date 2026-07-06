@@ -123,6 +123,15 @@ A local-first image studio for creating, reviewing, and organizing AI images thr
 
 Link: https://github.com/gvastethecreator/codex-studio
 
+## ● Image MetaHub
+
+![](https://raw.githubusercontent.com/LuqP2/Image-MetaHub/88a5cd76b2bfa98e93c769657eb77747ec069672/assets/screenshot-hero-grid.webp)
+
+Image MetaHub is a desktop app for browsing large local libraries of AI outputs without uploading anything to the cloud.
+It scans your folders, extracts metadata from popular generators, caches results for fast reuse, and lets you filter by prompt, model, LoRA, sampler, seed, dimensions, telemetry, tags, and more.
+
+Link: https://github.com/LuqP2/Image-MetaHub
+
 
 
 
