@@ -466,6 +466,15 @@ OpenLayer is a Photoshop UXP plugin that connects to ComfyUI, generates AI image
 
 Link: https://github.com/MehranMarxian/OpenLayer
 
+## ● ai0-video-creator
+
+![](https://raw.githubusercontent.com/ajoesoft/ai0-video-creator/d49e799bd4f6a0c883e5bd6f684b926285c86168/output/script.jpg)
+
+ai0-video-creator is a premium, full-featured desktop audio-visual content creation suite designed to streamline the enitre process, from writing scripts to generating high-fidelity video assets.
+Create short dramas, translated videos, vocabulary tutorials, dialogue clips and original stories all in one unified pipeline.
+
+Link: https://github.com/ajoesoft/ai0-video-creator
+
 
 
 
