@@ -391,7 +391,7 @@ Link: https://github.com/tchr-dev/ComfyStudio
 
 ## ● MooshieUI
 
-![](https://github.com/Mooshieblob1/MooshieUI/blob/main/screenshot.avif)
+![](https://raw.githubusercontent.com/Mooshieblob1/MooshieUI/8807fd775285d41141d4b3d3b460e1ab7d21fd53/docs/screenshot.avif)
 
 MooshieUI is a beginner-friendly interface for ComfyUI that now runs in two modes:
 - Desktop app mode via Tauri (Windows/Linux, macOS source build)
