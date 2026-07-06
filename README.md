@@ -475,9 +475,13 @@ A project-based Stable Diffusion Web UI, for easier organization of generated im
 
 Link: https://github.com/mat-sz/metastable
 
+## ● Deo
 
+![](/assets/Deo.png)
 
+Deo is a downloadable tool for converting an image into an Ideogram 4 JSON prompt which can then be used to generate images or train LoRAs.
 
+Link: https://kingroka.itch.io/deo
 
 
 
