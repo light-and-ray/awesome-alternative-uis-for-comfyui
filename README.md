@@ -308,7 +308,7 @@ Link: https://github.com/felipebottega/FlowForge
 
 ![](https://raw.githubusercontent.com/EnviralDesign/LatentSlate/e12c7e81acff9b3b24096e09c09d04e8e03f0de9/media/screenshots/mainUI.png)
 
-LatentSlate is a local-first generative Non-Linear Editing (NLE) desktop app supporting a range of generation providers, starting with ComfyUI and your own workflows.
+LatentSlate is a local-first generative Non-Linear Editing desktop app supporting a range of generation providers, starting with ComfyUI and your own workflows.
 It provides a a streamlined and opinionated UX that exposes only the parameters and settings you need to care about to create, version, and iterate on your vision.
 
 Link: https://github.com/EnviralDesign/LatentSlate
