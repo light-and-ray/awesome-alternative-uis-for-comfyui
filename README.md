@@ -500,6 +500,15 @@ It gives AI filmmakers a free-form canvas to build generative pipelines where ev
 
 Link: https://github.com/inlineresearch/Inline-Studio
 
+## ● somni
+
+![](https://raw.githubusercontent.com/searcc/somni-comfyui/deae5a76bf13770988ec2a5d1001e732b0a7c388/screenshots/somni-ui.png)
+
+somni is a modern and easy to use frontend for ComfyUI made for desktop and mobile.
+It includes a Gemini-style easy mode, IP-Adapter support, and a mobile-friendly gallery with full-screen viewer.
+
+Link: https://github.com/searcc/somni-comfyui
+
 
 
 
