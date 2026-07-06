@@ -408,7 +408,13 @@ Organize AI video projects into structured timelines. Create reusable asset libr
 
 Link: https://github.com/mikehalleen/the-halleen-machine
 
+## ● Metastable
 
+![](https://raw.githubusercontent.com/mat-sz/metastable/cd1169877532cc1d10e12d93064b22b13377ce44/assets/screenshot.png)
+
+A project-based Stable Diffusion Web UI, for easier organization of generated images. Work in progress.
+
+Link: https://github.com/mat-sz/metastable
 
 
 
@@ -458,11 +464,3 @@ Link: https://github.com/space-nuko/ComfyBox
 Simply put: You can translate any ComfyUI workflow into a WhatsAI Card (a UI built with React and Mantine).
 
 Link: https://github.com/benchiong/whatsai-client
-
-## ● Metastable
-
-![](https://raw.githubusercontent.com/mat-sz/metastable/cd1169877532cc1d10e12d93064b22b13377ce44/assets/screenshot.png)
-
-A project-based Stable Diffusion Web UI, for easier organization of generated images. Work in progress.
-
-Link: https://github.com/mat-sz/metastable
