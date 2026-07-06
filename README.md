@@ -348,11 +348,13 @@ Infinite-Canvas is a Chinese-language ComfyUI client that supports both local an
 
 Link: https://github.com/hero8152/Infinite-Canvas
 
+## ● ComfyUI-Gradio
 
+![](/assets/ComfyUI-Gradio.png)
 
+A Gradio-based web interface for ComfyUI image generation with two model tabs (ZIT and Flux2-Klein-9B) and LoRA support.
 
-
-
+Link: https://github.com/sandichhuu/ComfyUI-Gradio
 
 
 
