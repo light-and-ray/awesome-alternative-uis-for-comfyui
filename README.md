@@ -441,6 +441,14 @@ DiffusionDesk is a local-first AI image workstation for ComfyUI, featuring a pre
 
 Link: https://github.com/tonybriant/diffusiondesk
 
+## ● AI Storyboard
+
+[![](https://img.youtube.com/vi/O0zx-lksAtk/0.jpg)](https://www.youtube.com/watch?v=O0zx-lksAtk)
+
+Generate ordered sequences of images with ComfyUI text-to-image models (Ideogram-first), with a structured JSON layout editor and draggable bounding boxes.
+
+Link: https://www.youtube.com/watch?v=O0zx-lksAtk
+
 
 
 
