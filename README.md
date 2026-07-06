@@ -106,6 +106,15 @@ It keeps the most common controls in one clean interface, while still letting ad
 
 Link: https://github.com/JpAndreBTA/Nexus-BTA
 
+## ● ComfyPanel
+
+![](/assets/ComfyPanel.gif)
+
+ComfyPanel is a professional Photoshop plugin built for designers and AI developers.
+Acting as a central hub, it seamlessly bridges local ComfyUI computing power with cloud platforms (RunningHub, BizyAir) to deliver a high-performance Edge-Cloud Hybrid workflow. 
+
+Link: https://github.com/Ginolazy/ComfyPanel
+
 
 
 
