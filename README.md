@@ -1,6 +1,6 @@
 # Awesome Alternative UIs for ComfyUI
 
-Here is a collection of alternative UI that use ComfyUI backend for image generation. The order doesn't matter. Don't hesitate to open an issue or pr if you want to add something. This list is not curated, it provides a screenshot and a bief descripion from the project itself
+Here is a collection of alternative UI that use ComfyUI backend for image generation. The order doesn't matter. Don't hesitate to open an issue or PR if you want to add something. This list is not curated, it provides a screenshot and a brief descripion from the project itself.
 
 # Category 1: Close integration, work with the same workflows
 
@@ -97,8 +97,84 @@ CosyUI transforms workflows, pipelines, and scripts into CosyFlows — structure
  
 Link: https://www.promptus.ai/comfyui
 
+## ● Nexus BTA
 
+![](https://raw.githubusercontent.com/JpAndreBTA/Nexus-BTA/5fab3e68f0fff206433bebae8ef712fb708d04ba/examples/Inpaint_layout.png)
 
+A local AI image, video, workflow and 3D experiment studio built around an embedded ComfyUI runtime.
+It keeps the most common controls in one clean interface, while still letting advanced users inspect and edit the Comfy workflow graph.
+
+Link: https://github.com/JpAndreBTA/Nexus-BTA
+
+## ● ComfyPanel
+
+![](/assets/ComfyPanel.gif)
+
+ComfyPanel is a professional Photoshop plugin built for designers and AI developers.
+Acting as a central hub, it seamlessly bridges local ComfyUI computing power with cloud platforms (RunningHub, BizyAir) to deliver a high-performance Edge-Cloud Hybrid workflow. 
+
+Link: https://github.com/Ginolazy/ComfyPanel
+
+## ● Codex Studio
+
+![](https://github.com/gvastethecreator/codex-studio/blob/4bcde2869d4e05fa98c1ad7e2830f73bbda2220d/docs/assets/screenshots/studio.webp?raw=true)
+
+A local-first image studio for creating, reviewing, and organizing AI images through your authenticated Codex/ChatGPT session.
+
+Link: https://github.com/gvastethecreator/codex-studio
+
+## ● Image MetaHub
+
+![](https://raw.githubusercontent.com/LuqP2/Image-MetaHub/88a5cd76b2bfa98e93c769657eb77747ec069672/assets/screenshot-hero-grid.webp)
+
+Image MetaHub is a desktop app for browsing large local libraries of AI outputs without uploading anything to the cloud.
+It scans your folders, extracts metadata from popular generators, caches results for fast reuse, and lets you filter by prompt, model, LoRA, sampler, seed, dimensions, telemetry, tags, and more.
+
+Link: https://github.com/LuqP2/Image-MetaHub
+
+## ● Spellcaster
+
+![](https://raw.githubusercontent.com/laboratoiresonore/spellcaster/ccef78a2a9a33d825805fd43243081cac516709f/assets/t3.png)
+
+Spellcaster is a headache-free, expert, private, free and organic local AI generation.
+Use it from GIMP, DaVinci Resolve, or the Wizard Guild chat UI. All three talk to the same ComfyUI backend, and every generated asset is visible from every interface.
+
+Link: https://github.com/laboratoiresonore/spellcaster
+
+## ● ComfyGrid
+
+![](/assets/ComfyGrid.png)
+
+A grid-based, intuitive frontend for ComfyUI inspired by Stable Diffusion WebUI, designed to simplify node interactions and image generation.
+The primary goal is to consolidate ComfyUI node operations into a single screen, enabling image generation without the need to consciously connect nodes.
+
+Link: https://github.com/nihedon/ComfyGrid
+
+## ● SmartComfy
+
+![](https://github.com/shenhuaxiyuan/SmartComfy/blob/0e4b2dbf003c10aaf70cb008c2a3af9438ec79b2/ScreenShot/2.png)
+
+SmartComfy is a Chinese-language AI workflow management platform that provides visual application creation and management capabilities for ComfyUI.
+
+Link: https://github.com/shenhuaxiyuan/SmartComfy
+
+## ● ComfyUI Wizard
+
+![](/assets/ComfyUI-Wizard.png)
+
+Turn any ComfyUI workflow into a production-ready API.
+The Wizard catalogues nodes, models, and dependencies from real-world workflows, and spins up a working Docker container that you can use anywhere.
+
+Link: https://comfy.getrunpod.io
+
+## ● SmartGallery DAM
+
+![](https://raw.githubusercontent.com/biagiomaf/smart-comfyui-gallery/82e8d286164ccb9e9691515901cd448b52630757/assets/hero_main_workspace.png)
+
+SmartGallery DAM is a local-first, browser-based Digital Asset Manager for ComfyUI and any media folder.
+Includes an advanced file manager, metadata search, color-coded status tags, ratings, collections, and the ability to share curated work with clients without exposing a single node.
+
+Link: https://github.com/biagiomaf/smart-comfyui-gallery
 
 
 
@@ -221,7 +297,47 @@ Orange is a minimalist, dynamic web frontend wrapper around ComfyUI. It replaces
 
 Link: https://github.com/saintbrodie/Orange
 
+## ● 🔗 LINK: The Ultimate Discord-ComfyUI Bridge
 
+![](https://raw.githubusercontent.com/nvmax/Link/85c3d95e0ce1f249f27d1eeaaf7e1a5967f68528/assets/Modal_Studio.png)
+
+LINK is the definitive command center for Generative AI. It’s not just a bridge—it's a professional-grade orchestration suite that elevates ComfyUI into a seamless Discord experience. If you can dream it in Comfy, you can dominate it in Discord.
+
+Link: https://github.com/nvmax/Link
+
+## ● 🔥 Emberforge
+
+![](https://github.com/MR-444/ImageGenerator.MAUI/blob/746277a835243a258e9d349ae24173f89ee161b0/documents/MainPage_Screenshot%202026-06-12.png?raw=true)
+
+It started as a plain image generator and grew into a forge — a desktop workbench that melts together many engines (cloud APIs and your own local ComfyUI/Ollama rig), hammers prompts into structured, spatially-aware Ideogram V4 captions, and lets variants evolve through a mutation/breeding engine.
+
+Link: https://github.com/MR-444/ImageGenerator.MAUI
+
+## ● ComfyUI Chat
+
+![](/assets/ComfyUI-Chat.png)
+
+A self-hosted web chat interface for generating images with ComfyUI. Type a prompt, watch progress stream in real time, and see the generated image appear inline in the conversation.
+
+Link: https://github.com/benstaniford/comfy-chatbot
+
+## ● FlowForge
+
+![](/assets/FlowForge.png)
+
+FlowForge translates natural language into ComfyUI execution.
+It functions as an intelligent layer that validates requirements and orchestrates image and video rendering end-to-end.
+
+Link: https://github.com/felipebottega/FlowForge
+
+## ● LatentSlate
+
+![](https://raw.githubusercontent.com/EnviralDesign/LatentSlate/e12c7e81acff9b3b24096e09c09d04e8e03f0de9/media/screenshots/mainUI.png)
+
+LatentSlate is a local-first generative Non-Linear Editing desktop app supporting a range of generation providers, starting with ComfyUI and your own workflows.
+It provides a a streamlined and opinionated UX that exposes only the parameters and settings you need to care about to create, version, and iterate on your vision.
+
+Link: https://github.com/EnviralDesign/LatentSlate
 
 
 
@@ -336,11 +452,54 @@ Infinite-Canvas is a Chinese-language ComfyUI client that supports both local an
 
 Link: https://github.com/hero8152/Infinite-Canvas
 
+## ● ComfyUI-Gradio
 
+![](/assets/ComfyUI-Gradio.png)
 
+A Gradio-based web interface for ComfyUI image generation with two model tabs (ZIT and Flux2-Klein-9B) and LoRA support.
 
+Link: https://github.com/sandichhuu/ComfyUI-Gradio
 
+## ● Dreamifly
 
+![](https://raw.githubusercontent.com/LastLighter/Dreamifly/acf9a9d30601b4676f70de09a69092c070b1329c/public/images/dreamifly-demo-3.png)
+
+Dreamifly is a Chinese-language AI drawing site template that integrates multiple advanced AI models (such as HiDream-I1, Flux.1-Dev, Stable Diffusion 3.5, Qwen-Image, etc.) to enable fast-start image generation by calling the ComfyUI backend API.
+
+Link: https://github.com/LastLighter/Dreamifly
+
+## ● DiffusionDesk
+
+![](https://raw.githubusercontent.com/tonybriant/diffusiondesk/dab39eeadfe6986c4944f909af7709d2b160eaef/screenshots/dashboard.png)
+
+DiffusionDesk is a local-first AI image workstation for ComfyUI, featuring a premium glass UI inspired by modern creative software.
+
+Link: https://github.com/tonybriant/diffusiondesk
+
+## ● AI Storyboard
+
+[![Watch on YouTube](https://img.youtube.com/vi/O0zx-lksAtk/0.jpg)](https://www.youtube.com/watch?v=O0zx-lksAtk)
+
+Generate ordered sequences of images with ComfyUI text-to-image models (Ideogram-first), with a structured JSON layout editor and draggable bounding boxes.
+
+Link: https://github.com/tjameswilliams/ai-storyboard
+
+## ● OpenLayer
+
+![](https://raw.githubusercontent.com/MehranMarxian/OpenLayer/69d216092aaba322874a51339db91ea6a2d93d1a/docs/assets/openlayer-photoshop-mvp.png)
+
+OpenLayer is a Photoshop UXP plugin that connects to ComfyUI, generates AI images, previews results, and imports them as editable Photoshop layers.
+
+Link: https://github.com/MehranMarxian/OpenLayer
+
+## ● ai0-video-creator
+
+![](https://raw.githubusercontent.com/ajoesoft/ai0-video-creator/d49e799bd4f6a0c883e5bd6f684b926285c86168/output/script.jpg)
+
+ai0-video-creator is a premium, full-featured desktop audio-visual content creation suite designed to streamline the enitre process, from writing scripts to generating high-fidelity video assets.
+Create short dramas, translated videos, vocabulary tutorials, dialogue clips and original stories all in one unified pipeline.
+
+Link: https://github.com/ajoesoft/ai0-video-creator
 
 
 
@@ -384,7 +543,7 @@ Link: https://github.com/tchr-dev/ComfyStudio
 
 ## ● MooshieUI
 
-![](https://github.com/Mooshieblob1/MooshieUI/blob/main/screenshot.avif)
+![](https://raw.githubusercontent.com/Mooshieblob1/MooshieUI/8807fd775285d41141d4b3d3b460e1ab7d21fd53/docs/screenshot.avif)
 
 MooshieUI is a beginner-friendly interface for ComfyUI that now runs in two modes:
 - Desktop app mode via Tauri (Windows/Linux, macOS source build)
@@ -401,11 +560,48 @@ Organize AI video projects into structured timelines. Create reusable asset libr
 
 Link: https://github.com/mikehalleen/the-halleen-machine
 
+## ● Metastable
 
+![](https://raw.githubusercontent.com/mat-sz/metastable/cd1169877532cc1d10e12d93064b22b13377ce44/assets/screenshot.png)
 
+A project-based Stable Diffusion Web UI, for easier organization of generated images. Work in progress.
 
+Link: https://github.com/mat-sz/metastable
 
+## ● Deo
 
+![](/assets/Deo.png)
+
+Deo is a downloadable tool for converting an image into an Ideogram 4 JSON prompt which can then be used to generate images or train LoRAs.
+
+Link: https://kingroka.itch.io/deo
+
+## ● Inline Studio
+
+![](https://raw.githubusercontent.com/inlineresearch/Inline-Studio/a23417ed053d0e0e49cb524d0927e73aee2e8143/screenshots/screenshot-dashboard-2.png)
+
+Inline Studio is a free, open-source desktop app for AI filmmaking on a node canvas, powered by your own ComfyUI.
+It gives AI filmmakers a free-form canvas to build generative pipelines where every render is kept as a versioned, non-destructive take, and finished frames assemble into a finished cut inside the app.
+
+Link: https://github.com/inlineresearch/Inline-Studio
+
+## ● somni
+
+![](https://raw.githubusercontent.com/searcc/somni-comfyui/deae5a76bf13770988ec2a5d1001e732b0a7c388/screenshots/somni-ui.png)
+
+somni is a modern and easy to use frontend for ComfyUI made for desktop and mobile.
+It includes a Gemini-style easy mode, IP-Adapter support, and a mobile-friendly gallery with full-screen viewer.
+
+Link: https://github.com/searcc/somni-comfyui
+
+## ● ImageGen Studio
+
+![](https://raw.githubusercontent.com/troesner-clesk/comfy-imagegen/49c8c2b4c0551496a1ad421c3c4b37a03e556b35/docs/screenshot.png)
+
+ImageGen Studio is  a dead-simple local web UI + CLI for ComfyUI — describe an image, get an image. No node graph, no cloud, no account.
+The goal is to make local image generation usable by people who shouldn't have to learn a node graph to use it.
+
+Link: https://github.com/troesner-clesk/comfy-imagegen
 
 
 
@@ -443,7 +639,6 @@ Link: https://github.com/rvion/CushyStudio/
 ComfyBox is a frontend to Stable Diffusion that lets you create custom image generation interfaces without any code. It uses ComfyUI under the hood for maximum power and extensibility.
 
 Link: https://github.com/space-nuko/ComfyBox
-
 
 ## ● WhatsAI - An easy-to-use UI fully based on ComfyUI.
 
