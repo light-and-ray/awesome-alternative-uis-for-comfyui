@@ -241,6 +241,7 @@ Link: https://github.com/nvmax/Link
 
 
 
+
 # Category 3: Use Comfy UI as runner server (worklows made by developers)
 
 ## ● ComfyGen – Simple WebUI for ComfyUI
@@ -355,6 +356,15 @@ Link: https://github.com/hero8152/Infinite-Canvas
 A Gradio-based web interface for ComfyUI image generation with two model tabs (ZIT and Flux2-Klein-9B) and LoRA support.
 
 Link: https://github.com/sandichhuu/ComfyUI-Gradio
+
+## ● Dreamifly
+
+![](https://raw.githubusercontent.com/LastLighter/Dreamifly/acf9a9d30601b4676f70de09a69092c070b1329c/public/images/dreamifly-demo-3.png)
+
+Dreamifly is a Chinese-language AI drawing site template that integrates multiple advanced AI models (such as HiDream-I1, Flux.1-Dev, Stable Diffusion 3.5, Qwen-Image, etc.) to enable fast-start image generation by calling the ComfyUI backend API.
+
+Link: https://github.com/LastLighter/Dreamifly
+
 
 
 
