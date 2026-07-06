@@ -141,6 +141,15 @@ Use it from GIMP, DaVinci Resolve, or the Wizard Guild chat UI. All three talk t
 
 Link: https://github.com/laboratoiresonore/spellcaster
 
+## ● ComfyGrid
+
+![](/assets/ComfyGrid.png)
+
+A grid-based, intuitive frontend for ComfyUI inspired by Stable Diffusion WebUI, designed to simplify node interactions and image generation.
+The primary goal is to consolidate ComfyUI node operations into a single screen, enabling image generation without the need to consciously connect nodes.
+
+Link: https://github.com/nihedon/ComfyGrid
+
 
 
 
