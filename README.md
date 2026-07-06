@@ -415,6 +415,13 @@ Dreamifly is a Chinese-language AI drawing site template that integrates multipl
 
 Link: https://github.com/LastLighter/Dreamifly
 
+## ● DiffusionDesk
+
+![](https://raw.githubusercontent.com/tonybriant/diffusiondesk/dab39eeadfe6986c4944f909af7709d2b160eaef/screenshots/dashboard.png)
+
+DiffusionDesk is a local-first AI image workstation for ComfyUI, featuring a premium glass UI inspired by modern creative software.
+
+Link: https://github.com/tonybriant/diffusiondesk
 
 
 
