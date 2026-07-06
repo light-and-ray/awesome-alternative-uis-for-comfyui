@@ -150,6 +150,14 @@ The primary goal is to consolidate ComfyUI node operations into a single screen,
 
 Link: https://github.com/nihedon/ComfyGrid
 
+## ● SmartComfy
+
+![](https://github.com/shenhuaxiyuan/SmartComfy/blob/0e4b2dbf003c10aaf70cb008c2a3af9438ec79b2/ScreenShot/2.png)
+
+SmartComfy is a Chinese-language AI workflow management platform that provides visual application creation and management capabilities for ComfyUI.
+
+Link: https://github.com/shenhuaxiyuan/SmartComfy
+
 
 
 
