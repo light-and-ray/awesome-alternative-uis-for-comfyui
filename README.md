@@ -132,6 +132,15 @@ It scans your folders, extracts metadata from popular generators, caches results
 
 Link: https://github.com/LuqP2/Image-MetaHub
 
+## ● Spellcaster
+
+![](https://raw.githubusercontent.com/laboratoiresonore/spellcaster/ccef78a2a9a33d825805fd43243081cac516709f/assets/t3.png)
+
+Spellcaster is a headache-free, expert, private, free and organic local AI generation.
+Use it from GIMP, DaVinci Resolve, or the Wizard Guild chat UI. All three talk to the same ComfyUI backend, and every generated asset is visible from every interface.
+
+Link: https://github.com/laboratoiresonore/spellcaster
+
 
 
 
