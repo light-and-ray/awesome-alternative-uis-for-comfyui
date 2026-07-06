@@ -491,7 +491,14 @@ Deo is a downloadable tool for converting an image into an Ideogram 4 JSON promp
 
 Link: https://kingroka.itch.io/deo
 
+## ● Inline Studio
 
+![](https://raw.githubusercontent.com/inlineresearch/Inline-Studio/a23417ed053d0e0e49cb524d0927e73aee2e8143/screenshots/screenshot-dashboard-2.png)
+
+Inline Studio is a free, open-source desktop app for AI filmmaking on a node canvas, powered by your own ComfyUI.
+It gives AI filmmakers a free-form canvas to build generative pipelines where every render is kept as a versioned, non-destructive take, and finished frames assemble into a finished cut inside the app.
+
+Link: https://github.com/inlineresearch/Inline-Studio
 
 
 
