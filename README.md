@@ -228,8 +228,13 @@ Orange is a minimalist, dynamic web frontend wrapper around ComfyUI. It replaces
 
 Link: https://github.com/saintbrodie/Orange
 
+## ● 🔗 LINK: The Ultimate Discord-ComfyUI Bridge
 
+![](https://raw.githubusercontent.com/nvmax/Link/85c3d95e0ce1f249f27d1eeaaf7e1a5967f68528/assets/Modal_Studio.png)
 
+LINK is the definitive command center for Generative AI. It’s not just a bridge—it's a professional-grade orchestration suite that elevates ComfyUI into a seamless Discord experience. If you can dream it in Comfy, you can dominate it in Discord.
+
+Link: https://github.com/nvmax/Link
 
 
 
