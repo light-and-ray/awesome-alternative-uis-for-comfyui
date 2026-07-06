@@ -278,6 +278,14 @@ It started as a plain image generator and grew into a forge — a desktop workbe
 
 Link: https://github.com/MR-444/ImageGenerator.MAUI
 
+## ● ComfyUI Chat
+
+![](/assets/ComfyUI-Chat.png)
+
+A self-hosted web chat interface for generating images with ComfyUI. Type a prompt, watch progress stream in real time, and see the generated image appear inline in the conversation.
+
+Link: https://github.com/benstaniford/comfy-chatbot
+
 
 
 
