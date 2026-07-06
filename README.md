@@ -286,6 +286,15 @@ A self-hosted web chat interface for generating images with ComfyUI. Type a prom
 
 Link: https://github.com/benstaniford/comfy-chatbot
 
+## ● FlowForge
+
+![](/assets/FlowForge.png)
+
+FlowForge translates natural language into ComfyUI execution.
+It functions as an intelligent layer that validates requirements and orchestrates image and video rendering end-to-end.
+
+Link: https://github.com/felipebottega/FlowForge
+
 
 
 
