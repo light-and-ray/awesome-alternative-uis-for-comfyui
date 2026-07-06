@@ -97,7 +97,14 @@ CosyUI transforms workflows, pipelines, and scripts into CosyFlows — structure
  
 Link: https://www.promptus.ai/comfyui
 
+## ● Nexus BTA
 
+![](https://raw.githubusercontent.com/JpAndreBTA/Nexus-BTA/5fab3e68f0fff206433bebae8ef712fb708d04ba/examples/Inpaint_layout.png)
+
+A local AI image, video, workflow and 3D experiment studio built around an embedded ComfyUI runtime.
+It keeps the most common controls in one clean interface, while still letting advanced users inspect and edit the Comfy workflow graph.
+
+Link: https://github.com/JpAndreBTA/Nexus-BTA
 
 
 
