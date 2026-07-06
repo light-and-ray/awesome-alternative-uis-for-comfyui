@@ -585,6 +585,17 @@ It includes a Gemini-style easy mode, IP-Adapter support, and a mobile-friendly 
 
 Link: https://github.com/searcc/somni-comfyui
 
+## ● ImageGen Studio
+
+![](https://raw.githubusercontent.com/troesner-clesk/comfy-imagegen/49c8c2b4c0551496a1ad421c3c4b37a03e556b35/docs/screenshot.png)
+
+ImageGen Studio is  a dead-simple local web UI + CLI for ComfyUI — describe an image, get an image. No node graph, no cloud, no account.
+The goal is to make local image generation usable by people who shouldn't have to learn a node graph to use it.
+
+Link: https://github.com/troesner-clesk/comfy-imagegen
+
+
+
 
 
 
