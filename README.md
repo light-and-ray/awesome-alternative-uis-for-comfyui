@@ -261,6 +261,14 @@ LINK is the definitive command center for Generative AI. It’s not just a bridg
 
 Link: https://github.com/nvmax/Link
 
+## ● 🔥 Emberforge
+
+![](https://github.com/MR-444/ImageGenerator.MAUI/blob/746277a835243a258e9d349ae24173f89ee161b0/documents/MainPage_Screenshot%202026-06-12.png?raw=true)
+
+It started as a plain image generator and grew into a forge — a desktop workbench that melts together many engines (cloud APIs and your own local ComfyUI/Ollama rig), hammers prompts into structured, spatially-aware Ideogram V4 captions, and lets variants evolve through a mutation/breeding engine.
+
+Link: https://github.com/MR-444/ImageGenerator.MAUI
+
 
 
 
