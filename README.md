@@ -508,7 +508,7 @@ Link: https://github.com/ajoesoft/ai0-video-creator
 
 ## ● Druid Cat — Kitty AI Studio
 
-![](https://druidcat.com/wp-content/themes/druidcat-theme/assets/images/og-image.jpg)
+![](https://druidcat.com/wp-content/uploads/2026/07/kitty-ai-studio-hub.png)
 
 Kitty AI Studio is a browser studio for open-source AI image & video generation (Krea 2, Wan, LTX, Z-Image, Qwen) running on cloud ComfyUI workflows made by the developers — no install, no GPU needed, pay-per-use from a few cents per generation. Includes a timeline editor and an AI agent that builds music videos and product ads.
 
