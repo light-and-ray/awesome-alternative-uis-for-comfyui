@@ -486,9 +486,9 @@ Link: https://github.com/tjameswilliams/ai-storyboard
 
 ## ● OpenLayer
 
-![](https://raw.githubusercontent.com/MehranMarxian/OpenLayer/69d216092aaba322874a51339db91ea6a2d93d1a/docs/assets/openlayer-photoshop-mvp.png)
+![](https://raw.githubusercontent.com/MehranMarxian/OpenLayer/642e467a1e13e039cc0e9f5012567bf8c4fb49e6/docs/assets/v0200/unflatten.webp)
 
-OpenLayer is a Photoshop UXP plugin that connects to ComfyUI, generates AI images, previews results, and imports them as editable Photoshop layers.
+OpenLayer is a Photoshop UXP plugin that drives a local ComfyUI server and imports results into the open document as real, editable Photoshop layers. Text to image, image to image, sketch to image, inpaint, outpaint, upscale, live painting, style and multi-reference composition, and Unflatten - which splits one flat layer back into separate layers with real alpha, shown above. Free, MIT, runs entirely on your own GPU.
 
 Link: https://github.com/MehranMarxian/OpenLayer
 
