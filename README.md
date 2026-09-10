@@ -506,6 +506,13 @@ Link: https://github.com/ajoesoft/ai0-video-creator
 
 
 
+## ● Druid Cat — Kitty AI Studio
+
+![](https://druidcat.com/wp-content/themes/druidcat-theme/assets/images/AI_Agent_2.webp)
+
+Kitty AI Studio is a browser studio for open-source AI image & video generation (Krea 2, Wan, LTX, Z-Image, Qwen) running on cloud ComfyUI workflows made by the developers — no install, no GPU needed, pay-per-use from a few cents per generation. The companion desktop app (screenshot above) adds a frame-precise multi-track timeline and an AI Agent that does the editing itself: it plans shots with per-shot pricing, cuts multi-camera podcasts using transcripts, builds beat-synced music videos with lip-sync, analyzes raw camera footage to assemble edits, and adds word-level animated captions.
+
+Link: https://druidcat.com
 
 # Category 4: Use Comfy backend as a module to use its functions, or very close connection with installed ComfyUI instance
 
