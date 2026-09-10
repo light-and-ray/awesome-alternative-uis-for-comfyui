@@ -182,6 +182,14 @@ Link: https://github.com/biagiomaf/smart-comfyui-gallery
 
 
 
+## ● ComfyAgent
+
+![](https://github.com/IvenKooLab/comfy-agent/raw/main/docs/screenshot-templates.png)
+
+A local-first desktop studio for ComfyUI - a native window (pywebview + tray) that drives your local ComfyUI instance end to end: prompt-to-image/video creation with automatic Chinese-to-English prompt enhancement, a gallery, a visual workflow editor, 600+ official workflow templates with automatic subgraph flattening and one-click loading, a model manager with preset suites and one-click downloads, batch pipelines for episodic video production, and an MCP server / function-calling assistant so external agents can drive it too. Pure-stdlib Python + vanilla JS, zero dependencies, ships as a single 10 MB exe.
+
+Link: https://github.com/IvenKooLab/comfy-agent
+
 # Category 2: UI for workflows exported in API format
 
 ## ● ViewComfy
