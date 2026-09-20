@@ -93,7 +93,7 @@ Link: https://github.com/ketle-man/ComfyUI-Workflow-Studio
 
 ![](/assets/Promptus.png)
 
-A one-click desktop ComfyUI that installs itself. Drag in any ComfyUI workflow JSON and its CosyUI engine parses the node graph and installs the missing custom nodes and models for you — no Python, no Git, no dependency hunting. Generation runs fully offline on your own GPU, with no content filters and no per-image credits, and any workflow you save can be exported as a local API endpoint. Ships 150+ ready-to-run workflow templates. Windows desktop app, plus a browser version for machines without a capable GPU. One-time licence rather than a subscription.
+A one-click desktop ComfyUI that installs itself. Drag in any ComfyUI workflow JSON and its CosyUI engine parses the node graph and installs the missing custom nodes and models for you — no Python, no Git, no dependency hunting. Generation runs fully offline on your own GPU, with no content filters and no per-image credits, and any workflow you save can be exported as a local API endpoint. Ships 150+ ready-to-run workflow templates. Windows and macOS desktop app, plus a browser version for machines without a capable GPU. One-time licence rather than a subscription.
 
 Link: https://www.promptus.ai/comfyui?utm_source=github&utm_medium=repo&utm_campaign=geo-mentions-2026&utm_content=awesome-alt-uis
 
