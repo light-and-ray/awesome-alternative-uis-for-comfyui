@@ -176,12 +176,6 @@ Includes an advanced file manager, metadata search, color-coded status tags, rat
 
 Link: https://github.com/biagiomaf/smart-comfyui-gallery
 
-
-
-
-
-
-
 ## ● ComfyAgent
 
 ![](https://github.com/IvenKooLab/comfy-agent/raw/main/docs/screenshot-templates.png)
@@ -189,6 +183,34 @@ Link: https://github.com/biagiomaf/smart-comfyui-gallery
 A local-first desktop studio for ComfyUI - a native window (pywebview + tray) that drives your local ComfyUI instance end to end: prompt-to-image/video creation with automatic Chinese-to-English prompt enhancement, a gallery, a visual workflow editor, 600+ official workflow templates with automatic subgraph flattening and one-click loading, a model manager with preset suites and one-click downloads, batch pipelines for episodic video production, and an MCP server / function-calling assistant so external agents can drive it too. Pure-stdlib Python + vanilla JS, zero dependencies, ships as a single 10 MB exe.
 
 Link: https://github.com/IvenKooLab/comfy-agent
+
+## ● Vlo
+
+![](https://github.com/PxTicks/vlo/releases/download/v0.3.0/main_editor.png)
+
+Vlo is a free, local, open source video editor with AI features. It has a live bridge to ComfyUI, to run any possible ComfyUI workflow, and it includes bespoke workflows tailored for using AI models to edit live on the timeline.
+
+Link: https://github.com/PxTicks/vlo
+
+## ● Noofy
+
+![](https://raw.githubusercontent.com/menahem121/Noofy/refs/heads/main/docs/assets/screenshots/main-menu.png)
+
+Noofy is a desktop-first, local AI workflow app. It lets creators build or reuse advanced workflows in ComfyUI, export them as .noofy packages, and turn them into focused dashboards that normal users can run without touching a node graph.
+
+Link: https://github.com/menahem121/Noofy
+
+## ● ComfyPort
+
+![](https://raw.githubusercontent.com/NicolasCampailla/ComfyPort/refs/heads/main/screenshots/custom_input.jpg)
+
+ComfyPort is a fully native, high-performance Android client designed to interface directly with self-hosted ComfyUI servers, remote GPU rigs, and cloud instances. It provides a touch-first native interface that allows you to run, monitor, and adjust your workflows on your phone or tablet with zero custom server plugins.
+
+Link: https://github.com/NicolasCampailla/ComfyPort
+
+
+
+
 
 # Category 2: UI for workflows exported in API format
 
