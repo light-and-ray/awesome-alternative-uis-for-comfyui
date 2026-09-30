@@ -619,6 +619,31 @@ Create short dramas, translated videos, vocabulary tutorials, dialogue clips and
 
 Link: https://github.com/ajoesoft/ai0-video-creator
 
+## ● FooocusPlus
+
+![](assets/FooocusPlus.png)
+
+FooocusPlus is a community-developed AI image generation program that makes creating stunning works of art easier than ever. FooocusPlus runs offline on your computer and is completely free! Now you can have your very own Stable Diffusion or Midjourney that helps turn your creative ideas into beautiful images without any technical skills.
+
+Link: https://github.com/DavidDragonsage/FooocusPlus
+
+## ● 🏢 Garty's Architect
+
+![](assets/Gartys-Architect.png)
+
+Your ultimate local desktop interface for orchestrating AI models. Built to bridge the gap between the raw, limitless power of ComfyUI / Ollama and the clean, focused experience of a professional design studio.
+
+Link: https://github.com/Gartyl/Gartys-Architect
+
+## ● FlixML
+
+![](https://raw.githubusercontent.com/ortegarod/flixml/refs/heads/main/docs/assets/flixml-studio.webp)
+
+FlixML Studio is a media generation workbench. It runs image and video generation through ComfyUI workflows, trains LoRAs, and exposes everything through a clean React UI for browsing, organizing, and queuing work. Jobs are tracked from queue to completion, routed across GPU providers, and organized into projects, scenes, and shots with persistent characters.
+
+Link: https://github.com/ortegarod/flixml
+
+
 
 
 
