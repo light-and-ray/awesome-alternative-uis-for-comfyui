@@ -369,6 +369,94 @@ It provides a a streamlined and opinionated UX that exposes only the parameters 
 
 Link: https://github.com/EnviralDesign/LatentSlate
 
+## ● Todly
+
+![](https://raw.githubusercontent.com/DheerajPiduru52/todly/refs/heads/main/docs/screenshot-generate.png)
+
+A modern, no-node-graph desktop front-end for a local ComfyUI server, prompt in, image out. Exposes only what casual, fast use actually needs: a prompt box, a resolution picker, a model/LoRA dropdown, and a batch runner.
+
+Link: https://github.com/DheerajPiduru52/todly
+
+## ● 📷 ComfyUI-Imagine
+
+![](assets/ComfyUI-Imagine.png)
+
+A SillyTavern extension that reads the scene you are in, writes an image prompt for it, renders it in ComfyUI, and drops the picture into the conversation. Not just the latest message: pick any point in the chat, and the picture is inserted right there.
+
+Link: https://github.com/mozophe/ST-ComfyUI-Imagine
+
+## ● BlockFlow
+
+![](https://raw.githubusercontent.com/Hearmeman24/BlockFlow/refs/heads/main/docs/screenshots/pipeline-view.png)
+
+Build visual workflows by chaining blocks together — prompt generation, ComfyUI workflows, video upscaling, and more — all running on RunPod serverless GPUs.
+
+Link: https://github.com/Hearmeman24/BlockFlow
+
+## ● Pallaidium
+
+![](assets/Palladium.png)
+
+A generative AI movie studio that seamlessly integrates with the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. Helps you to prototype the full production cycle with AI before you commit to a single frame of footage.
+
+Link: https://github.com/tin2tin/Pallaidium
+
+## ● Velorn
+
+![](https://raw.githubusercontent.com/VelornLabs/velorn/refs/heads/main/docs/readme/create-workflows.png)
+
+AI-native video editing built around real creative timelines, generative workflows, and local agent control. Provides a full production layer around ComfyUI: plan the work, send jobs to ComfyUI, collect the outputs, and finish the edit.
+
+Link: https://github.com/VelornLabs/velorn
+
+## ● Eishougi (詠唱机)
+
+![](https://raw.githubusercontent.com/mikuYongh/Eishougi/refs/heads/master/docs/screenshots/agent.png)
+
+A cross-platform AI art workstation that turns ComfyUI's complex node-graph workflow into an elegant prompt-project experience — with a built-in AI agent and an MCP server that exposes your entire creative pipeline to external AI tools.
+
+Link: https://github.com/mikuYongh/Eishougi
+
+## ● Return Current β
+
+![](assets/ReturnCurrent.png)
+
+A single HTML file that turns your phone into a remote for your ComfyUI rig. Import any workflow, edit every meaningful field with a thumb-friendly UI, queue generations, and watch images and video land in a live gallery, from the couch, the yard, or anywhere your network reaches.
+
+Link: https://github.com/dreamerisms/return_current
+
+## ● ComfyUI-Blender
+
+![](https://raw.githubusercontent.com/alexisrolland/ComfyUI-Blender/refs/heads/main/screenshot_blender.jpg)
+
+Custom nodes and add-on to use ComfyUI from Blender. Create workflows in ComfyUI with the Blender nodes, then import them with the Blender add-on. The Blender add-on UI is automatically composed according to the input and output nodes used in the workflow.
+
+Link: https://github.com/alexisrolland/ComfyUI-Blender
+
+## ● comfy-ts
+
+![](https://raw.githubusercontent.com/rvion/comfy-ts/refs/heads/main/screenshots/tui-screen-1.png)
+
+Build workflows in code with autocomplete on every node and model of your exact install. Run them on any host, from the box under your desk to a cloud GPU, and get the images straight back into your code. Drive them from a terminal UI with live latent previews, or from a browser panel that turns every workflow into a form — on your desk or on your phone.
+
+Link: https://github.com/rvion/comfy-ts
+
+## ● EasyAI
+
+![](https://raw.githubusercontent.com/Garionhk/EasyAI/refs/heads/main/docs/manual/screenshots/04_main-window.png)
+
+A simple, beginner-friendly desktop app that puts ComfyUI's AI image and video generation behind one easy interface — pick a style, type a prompt, press Create. Includes a one-click installer that sets up ComfyUI and all required models automatically.
+
+Link: https://github.com/Garionhk/EasyAI
+
+## ● TakeBoard
+
+![](https://raw.githubusercontent.com/Fourques/Takeboard/8a2f035/docs/assets/takeboard-demo-cover.png)
+
+An open-source, local-first project canvas for ComfyUI that complements the node editor with a project workspace and traceable generation history. Desktop apps are available for macOS, Windows and Linux.
+
+Link: https://github.com/Fourques/Takeboard
+
 
 
 
@@ -530,8 +618,6 @@ ai0-video-creator is a premium, full-featured desktop audio-visual content creat
 Create short dramas, translated videos, vocabulary tutorials, dialogue clips and original stories all in one unified pipeline.
 
 Link: https://github.com/ajoesoft/ai0-video-creator
-
-
 
 
 
