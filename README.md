@@ -744,6 +744,38 @@ The goal is to make local image generation usable by people who shouldn't have t
 
 Link: https://github.com/troesner-clesk/comfy-imagegen
 
+## ● qComfy
+
+![](https://raw.githubusercontent.com/arenasys/qComfy/refs/heads/master/source/screenshot.png)
+
+qComfy is an update to qDiffusion that provides access to ComfyUI's extensive model library. *All* models that ComfyUI can load and run in the standard manner are supported (Stable diffusion, Anima, ZImage, Krea2, etc) for Txt2Img, Img2Img, Inpainting, etc.
+
+Link: https://github.com/arenasys/qComfy
+
+## ● SugarSubstitute
+
+![](https://raw.githubusercontent.com/Artificial-Sweetener/SugarSubstitute/refs/heads/main/docs/readme/sugarsubstitute-workspace.png)
+
+SugarSubstitute is the Qt front-end for ComfyUI built for people who love what a graph can do and would rather not spend all day untangling one. If ComfyUI can run a model, you can bring it into SugarSubstitute with a Cube—a saved ComfyUI subgraph with a stable public surface.
+
+Link: https://github.com/Artificial-Sweetener/SugarSubstitute
+
+## ● Mix Studio
+
+![](https://raw.githubusercontent.com/BlackMixture/Mix-Studio/refs/heads/main/docs/download/mix-studio-create.webp)
+
+The cleanest, most responsive AI workspace. Run highly tuned image and video workflows flawlessly from your desktop or your phone. Built on ComfyUI with support for image generation, regional prompting, image editing, video generation, motion transfer, and upscaling.
+
+Link: https://github.com/BlackMixture/Mix-Studio
+
+## ● TheNoise
+
+![](assets/TheNoise.webp)
+
+A fast diffusion model engine for image generation and editing, optimized for Strix Halo with support for most AMD GPUs. Loads one model at a time and generates or edits images from text prompts. Available as a CLI tool, an HTTP API (with a simple web UI).
+
+Link: https://github.com/lemonade-sdk/thenoise
+
 
 
 
