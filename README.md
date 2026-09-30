@@ -820,3 +820,11 @@ Link: https://github.com/space-nuko/ComfyBox
 Simply put: You can translate any ComfyUI workflow into a WhatsAI Card (a UI built with React and Mantine).
 
 Link: https://github.com/benchiong/whatsai-client
+
+## ● CivitUI 
+
+![](assets/CivitUI.mp4)
+
+A comfier GUI for Civitai generations.
+
+Link: https://github.com/civitai/CivitUI
