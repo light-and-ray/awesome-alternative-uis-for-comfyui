@@ -202,7 +202,7 @@ Link: https://github.com/menahem121/Noofy
 
 ## ● ComfyPort
 
-![](https://raw.githubusercontent.com/NicolasCampailla/ComfyPort/refs/heads/main/screenshots/custom_input.jpg)
+![](assets/ComfyPort.jpg)
 
 ComfyPort is a fully native, high-performance Android client designed to interface directly with self-hosted ComfyUI servers, remote GPU rigs, and cloud instances. It provides a touch-first native interface that allows you to run, monitor, and adjust your workflows on your phone or tablet with zero custom server plugins.
 
