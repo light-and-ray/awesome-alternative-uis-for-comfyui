@@ -823,7 +823,7 @@ Link: https://github.com/benchiong/whatsai-client
 
 ## ● CivitUI 
 
-![](assets/CivitUI.mp4)
+https://github.com/civitai/CivitUI/assets/34775928/61f8662f-5a52-46ac-aac2-c751b0f8b02d
 
 A comfier GUI for Civitai generations.
 
