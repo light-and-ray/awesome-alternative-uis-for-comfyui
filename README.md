@@ -176,12 +176,6 @@ Includes an advanced file manager, metadata search, color-coded status tags, rat
 
 Link: https://github.com/biagiomaf/smart-comfyui-gallery
 
-
-
-
-
-
-
 ## ● ComfyAgent
 
 ![](https://github.com/IvenKooLab/comfy-agent/raw/main/docs/screenshot-templates.png)
@@ -189,6 +183,34 @@ Link: https://github.com/biagiomaf/smart-comfyui-gallery
 A local-first desktop studio for ComfyUI - a native window (pywebview + tray) that drives your local ComfyUI instance end to end: prompt-to-image/video creation with automatic Chinese-to-English prompt enhancement, a gallery, a visual workflow editor, 600+ official workflow templates with automatic subgraph flattening and one-click loading, a model manager with preset suites and one-click downloads, batch pipelines for episodic video production, and an MCP server / function-calling assistant so external agents can drive it too. Pure-stdlib Python + vanilla JS, zero dependencies, ships as a single 10 MB exe.
 
 Link: https://github.com/IvenKooLab/comfy-agent
+
+## ● Vlo
+
+![](https://github.com/PxTicks/vlo/releases/download/v0.3.0/main_editor.png)
+
+Vlo is a free, local, open source video editor with AI features. It has a live bridge to ComfyUI, to run any possible ComfyUI workflow, and it includes bespoke workflows tailored for using AI models to edit live on the timeline.
+
+Link: https://github.com/PxTicks/vlo
+
+## ● Noofy
+
+![](https://raw.githubusercontent.com/menahem121/Noofy/refs/heads/main/docs/assets/screenshots/main-menu.png)
+
+Noofy is a desktop-first, local AI workflow app. It lets creators build or reuse advanced workflows in ComfyUI, export them as .noofy packages, and turn them into focused dashboards that normal users can run without touching a node graph.
+
+Link: https://github.com/menahem121/Noofy
+
+## ● ComfyPort
+
+![](assets/ComfyPort.jpg)
+
+ComfyPort is a fully native, high-performance Android client designed to interface directly with self-hosted ComfyUI servers, remote GPU rigs, and cloud instances. It provides a touch-first native interface that allows you to run, monitor, and adjust your workflows on your phone or tablet with zero custom server plugins.
+
+Link: https://github.com/NicolasCampailla/ComfyPort
+
+
+
+
 
 # Category 2: UI for workflows exported in API format
 
@@ -346,6 +368,94 @@ LatentSlate is a local-first generative Non-Linear Editing desktop app supportin
 It provides a a streamlined and opinionated UX that exposes only the parameters and settings you need to care about to create, version, and iterate on your vision.
 
 Link: https://github.com/EnviralDesign/LatentSlate
+
+## ● Todly
+
+![](https://raw.githubusercontent.com/DheerajPiduru52/todly/refs/heads/main/docs/screenshot-generate.png)
+
+A modern, no-node-graph desktop front-end for a local ComfyUI server, prompt in, image out. Exposes only what casual, fast use actually needs: a prompt box, a resolution picker, a model/LoRA dropdown, and a batch runner.
+
+Link: https://github.com/DheerajPiduru52/todly
+
+## ● 📷 ComfyUI-Imagine
+
+![](assets/ComfyUI-Imagine.png)
+
+A SillyTavern extension that reads the scene you are in, writes an image prompt for it, renders it in ComfyUI, and drops the picture into the conversation. Not just the latest message: pick any point in the chat, and the picture is inserted right there.
+
+Link: https://github.com/mozophe/ST-ComfyUI-Imagine
+
+## ● BlockFlow
+
+![](https://raw.githubusercontent.com/Hearmeman24/BlockFlow/refs/heads/main/docs/screenshots/pipeline-view.png)
+
+Build visual workflows by chaining blocks together — prompt generation, ComfyUI workflows, video upscaling, and more — all running on RunPod serverless GPUs.
+
+Link: https://github.com/Hearmeman24/BlockFlow
+
+## ● Pallaidium
+
+![](assets/Palladium.png)
+
+A generative AI movie studio that seamlessly integrates with the Blender Video Editor (VSE), enabling end-to-end production from script to screen and back. Helps you to prototype the full production cycle with AI before you commit to a single frame of footage.
+
+Link: https://github.com/tin2tin/Pallaidium
+
+## ● Velorn
+
+![](https://raw.githubusercontent.com/VelornLabs/velorn/refs/heads/main/docs/readme/create-workflows.png)
+
+AI-native video editing built around real creative timelines, generative workflows, and local agent control. Provides a full production layer around ComfyUI: plan the work, send jobs to ComfyUI, collect the outputs, and finish the edit.
+
+Link: https://github.com/VelornLabs/velorn
+
+## ● Eishougi (詠唱机)
+
+![](https://raw.githubusercontent.com/mikuYongh/Eishougi/refs/heads/master/docs/screenshots/agent.png)
+
+A cross-platform AI art workstation that turns ComfyUI's complex node-graph workflow into an elegant prompt-project experience — with a built-in AI agent and an MCP server that exposes your entire creative pipeline to external AI tools.
+
+Link: https://github.com/mikuYongh/Eishougi
+
+## ● Return Current β
+
+![](assets/ReturnCurrent.png)
+
+A single HTML file that turns your phone into a remote for your ComfyUI rig. Import any workflow, edit every meaningful field with a thumb-friendly UI, queue generations, and watch images and video land in a live gallery, from the couch, the yard, or anywhere your network reaches.
+
+Link: https://github.com/dreamerisms/return_current
+
+## ● ComfyUI-Blender
+
+![](https://raw.githubusercontent.com/alexisrolland/ComfyUI-Blender/refs/heads/main/screenshot_blender.jpg)
+
+Custom nodes and add-on to use ComfyUI from Blender. Create workflows in ComfyUI with the Blender nodes, then import them with the Blender add-on. The Blender add-on UI is automatically composed according to the input and output nodes used in the workflow.
+
+Link: https://github.com/alexisrolland/ComfyUI-Blender
+
+## ● comfy-ts
+
+![](https://raw.githubusercontent.com/rvion/comfy-ts/refs/heads/main/screenshots/tui-screen-1.png)
+
+Build workflows in code with autocomplete on every node and model of your exact install. Run them on any host, from the box under your desk to a cloud GPU, and get the images straight back into your code. Drive them from a terminal UI with live latent previews, or from a browser panel that turns every workflow into a form — on your desk or on your phone.
+
+Link: https://github.com/rvion/comfy-ts
+
+## ● EasyAI
+
+![](https://raw.githubusercontent.com/Garionhk/EasyAI/refs/heads/main/docs/manual/screenshots/04_main-window.png)
+
+A simple, beginner-friendly desktop app that puts ComfyUI's AI image and video generation behind one easy interface — pick a style, type a prompt, press Create. Includes a one-click installer that sets up ComfyUI and all required models automatically.
+
+Link: https://github.com/Garionhk/EasyAI
+
+## ● TakeBoard
+
+![](https://raw.githubusercontent.com/Fourques/Takeboard/8a2f035/docs/assets/takeboard-demo-cover.png)
+
+An open-source, local-first project canvas for ComfyUI that complements the node editor with a project workspace and traceable generation history. Desktop apps are available for macOS, Windows and Linux.
+
+Link: https://github.com/Fourques/Takeboard
 
 
 
@@ -509,6 +619,29 @@ Create short dramas, translated videos, vocabulary tutorials, dialogue clips and
 
 Link: https://github.com/ajoesoft/ai0-video-creator
 
+## ● FooocusPlus
+
+![](assets/FooocusPlus.png)
+
+FooocusPlus is a community-developed AI image generation program that makes creating stunning works of art easier than ever. FooocusPlus runs offline on your computer and is completely free! Now you can have your very own Stable Diffusion or Midjourney that helps turn your creative ideas into beautiful images without any technical skills.
+
+Link: https://github.com/DavidDragonsage/FooocusPlus
+
+## ● 🏢 Garty's Architect
+
+![](assets/Gartys-Architect.png)
+
+Your ultimate local desktop interface for orchestrating AI models. Built to bridge the gap between the raw, limitless power of ComfyUI / Ollama and the clean, focused experience of a professional design studio.
+
+Link: https://github.com/Gartyl/Gartys-Architect
+
+## ● FlixML
+
+![](https://raw.githubusercontent.com/ortegarod/flixml/refs/heads/main/docs/assets/flixml-studio.webp)
+
+FlixML Studio is a media generation workbench. It runs image and video generation through ComfyUI workflows, trains LoRAs, and exposes everything through a clean React UI for browsing, organizing, and queuing work. Jobs are tracked from queue to completion, routed across GPU providers, and organized into projects, scenes, and shots with persistent characters.
+
+Link: https://github.com/ortegarod/flixml
 
 
 
@@ -611,6 +744,38 @@ The goal is to make local image generation usable by people who shouldn't have t
 
 Link: https://github.com/troesner-clesk/comfy-imagegen
 
+## ● qComfy
+
+![](https://raw.githubusercontent.com/arenasys/qComfy/refs/heads/master/source/screenshot.png)
+
+qComfy is an update to qDiffusion that provides access to ComfyUI's extensive model library. *All* models that ComfyUI can load and run in the standard manner are supported (Stable diffusion, Anima, ZImage, Krea2, etc) for Txt2Img, Img2Img, Inpainting, etc.
+
+Link: https://github.com/arenasys/qComfy
+
+## ● SugarSubstitute
+
+![](https://raw.githubusercontent.com/Artificial-Sweetener/SugarSubstitute/refs/heads/main/docs/readme/sugarsubstitute-workspace.png)
+
+SugarSubstitute is the Qt front-end for ComfyUI built for people who love what a graph can do and would rather not spend all day untangling one. If ComfyUI can run a model, you can bring it into SugarSubstitute with a Cube—a saved ComfyUI subgraph with a stable public surface.
+
+Link: https://github.com/Artificial-Sweetener/SugarSubstitute
+
+## ● Mix Studio
+
+![](https://raw.githubusercontent.com/BlackMixture/Mix-Studio/refs/heads/main/docs/download/mix-studio-create.webp)
+
+The cleanest, most responsive AI workspace. Run highly tuned image and video workflows flawlessly from your desktop or your phone. Built on ComfyUI with support for image generation, regional prompting, image editing, video generation, motion transfer, and upscaling.
+
+Link: https://github.com/BlackMixture/Mix-Studio
+
+## ● TheNoise
+
+![](assets/TheNoise.webp)
+
+A fast diffusion model engine for image generation and editing, optimized for Strix Halo with support for most AMD GPUs. Loads one model at a time and generates or edits images from text prompts. Available as a CLI tool, an HTTP API (with a simple web UI).
+
+Link: https://github.com/lemonade-sdk/thenoise
+
 
 
 
@@ -655,3 +820,11 @@ Link: https://github.com/space-nuko/ComfyBox
 Simply put: You can translate any ComfyUI workflow into a WhatsAI Card (a UI built with React and Mantine).
 
 Link: https://github.com/benchiong/whatsai-client
+
+## ● CivitUI 
+
+https://github.com/civitai/CivitUI/assets/34775928/61f8662f-5a52-46ac-aac2-c751b0f8b02d
+
+A comfier GUI for Civitai generations.
+
+Link: https://github.com/civitai/CivitUI
