@@ -453,7 +453,7 @@ Link: https://github.com/Garionhk/EasyAI
 
 ![](https://raw.githubusercontent.com/Fourques/Takeboard/8a2f035/docs/assets/takeboard-demo-cover.png)
 
-An open-source, local-first project canvas for ComfyUI that complements the node editor with a project workspace and traceable generation history. Desktop apps are available for macOS, Windows and Linux.
+An open-source canvas for AI image and video creation, powered by your own local or remote ComfyUI. Choose models, connect media and prompts, and use generated results in the next creative step. Desktop beta for macOS, Windows and Debian/Ubuntu; ComfyUI and models are installed separately.
 
 Link: https://github.com/Fourques/Takeboard
 
