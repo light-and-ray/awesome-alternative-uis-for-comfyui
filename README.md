@@ -457,11 +457,14 @@ An open-source canvas for AI image and video creation, powered by your own local
 
 Link: https://github.com/Fourques/Takeboard
 
+## ● HEISS UI
 
+![](/assets/HEISS-UI.jpg)
 
+An image-first, free & open source front end for ComfyUI, with zero setup. 28 built-in image and video model families, LoRA stacks, upscale, reference images and an actually good phone mode all work out of the box. Import your own workflows, reach it from other devices over LAN, and keep private images in a locked "Hidden" section.
 
-
-
+Link: https://github.com/tristmeister/HEISS-UI
+Website: https://heiss-ui.vercel.app/
 
 # Category 3: Use Comfy UI as runner server (worklows made by developers)
 
@@ -775,15 +778,6 @@ Link: https://github.com/BlackMixture/Mix-Studio
 A fast diffusion model engine for image generation and editing, optimized for Strix Halo with support for most AMD GPUs. Loads one model at a time and generates or edits images from text prompts. Available as a CLI tool, an HTTP API (with a simple web UI).
 
 Link: https://github.com/lemonade-sdk/thenoise
-
-## ● HEISS UI
-
-![](/assets/HEISS-UI.jpg)
-
-An image-first, free & open source front end for ComfyUI, with zero setup. 28 built-in image and video model families, LoRA stacks, upscale, reference images and an actually good phone mode all work out of the box. Import your own workflows, reach it from other devices over LAN, and keep private images in a locked "Hidden" section.
-
-Link: https://github.com/tristmeister/HEISS-UI
-Website: https://heiss-ui.vercel.app/
 
 
 
