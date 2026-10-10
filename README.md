@@ -652,6 +652,14 @@ Link: https://github.com/ortegarod/flixml
 
 # Category 4: Use Comfy backend as a module to use its functions, or very close connection with installed ComfyUI instance
 
+## ● Scumble
+
+![](https://www.denrakeiw.com/projects/scumble/thumbnail.jpg)
+
+Scumble is a free, open-source standalone desktop editor for AI inpainting with layers, selection by text, retouch, and filters. It connects to your own ComfyUI instance (via the Inpaint Canvas node pack) to run local workflows as recipes, returning every inpainting result as an editable, colour-matched layer with PSD/ORA export and built-in MCP agent support.
+
+Link: https://github.com/DenRakEiw/scumble
+
 ## ● RuinedFooocus
 
 ![](https://raw.githubusercontent.com/runew0lf/pmmconfigs/main/RuinedFooocus_ss.png)
