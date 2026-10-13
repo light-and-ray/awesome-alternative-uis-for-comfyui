@@ -778,6 +778,14 @@ A fast diffusion model engine for image generation and editing, optimized for St
 
 Link: https://github.com/lemonade-sdk/thenoise
 
+## ● Scumble
+
+![](https://www.denrakeiw.com/projects/scumble/thumbnail.jpg)
+
+Scumble is a free, open-source standalone desktop editor for AI inpainting with layers, selection by text, retouch, and filters. It connects to your own ComfyUI instance (via the Inpaint Canvas node pack) to run local workflows as recipes, returning every inpainting result as an editable, colour-matched layer with PSD/ORA export and built-in MCP agent support.
+
+Link: https://github.com/DenRakEiw/scumble
+
 
 
 
