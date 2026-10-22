@@ -645,6 +645,14 @@ FlixML Studio is a media generation workbench. It runs image and video generatio
 
 Link: https://github.com/ortegarod/flixml
 
+## ● Cubric Studio
+
+![](/assets/CubricStudio.jpg)
+
+A free, open-source desktop app for images, video and sound on your own graphics card, with no node graphs. It installs and runs a tested ComfyUI engine for you, installs each model in one click (Krea 2, FLUX.3, SDXL, Qwen, Wan, LTX, MiniMax H3 and more), and adds masks, edits, guided Flows and an agent built into the app. Claude, Codex or Antigravity can drive it over MCP. Windows, macOS and Linux.
+
+Link: https://github.com/MadPonyInteractive/Cubric-Studio
+
 
 
 
