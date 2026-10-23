@@ -494,9 +494,9 @@ Link: https://github.com/jordenyt/stable_diffusion_sketch
 
 ## ● NodeTool
 
-![](https://nodetool.ai/_next/image?url=%2Fscreen_canvas.png&w=3840&q=75)
+![](https://github.com/nodetool-ai/nodetool/raw/main/marketing/public/hero-flow-readme.gif)
 
-Connect AI building blocks to generate content, analyze data, and automate tasks. Use models on your machine or in the cloud. Your workflows, your data—always under your control.
+Create images, video, audio, and text with agents that work alongside you. Describe what you want, let the agent build it, then take over whenever you like.
 
 Link: https://nodetool.ai/
 
