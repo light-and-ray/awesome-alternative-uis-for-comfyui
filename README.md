@@ -657,7 +657,7 @@ Link: https://github.com/MadPonyInteractive/Cubric-Studio
 
 ![](https://raw.githubusercontent.com/jutsuhq/swapjutsu-seedance-character-swap/main/docs/assets/app.png)
 
-A free, open-source Mac app that swaps a character into any video. The clip is prepared on the Mac with Vision and Core ML, and the render runs through ComfyUI: Wan 2.2 Animate on your own ComfyUI server, or Seedance 2.5 and Wan 3.0 through Comfy Cloud and Partner Nodes. Built for ComfyUI's #OpenSourceHiggsfield challenge; all the entries are collected in [Open Source Higgsfield](https://github.com/jutsuhq/open-source-higgsfield).
+A free, open-source Mac app that swaps a character into any video. The clip is prepared on the Mac with Vision and Core ML, and the render runs through ComfyUI: Wan 2.2 Animate on your own ComfyUI server, or Seedance 2.5 and Wan 3.0 through Comfy Cloud and Partner Nodes. Built for ComfyUI's #OpenSourceHiggsfield challenge; all the entries are collected in Open Source Higgsfield.
 
 Link: https://github.com/jutsuhq/swapjutsu-seedance-character-swap
 
